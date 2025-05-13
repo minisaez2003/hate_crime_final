@@ -1,0 +1,1004 @@
+"State","Agency.type","Agency.name","Race","Religion","Sexual.orientation","Ethnicity","Disability","Gender","Gender.Identity","X1st.quarter","X2nd.quarter","X3rd.quarter","X4th.quarter","Population","Total_Complaints"
+"Kansas","Cities","Iola",1,0,1,0,0,"0",0,0,2,0,0,5697,2
+"Kentucky","Cities","Owensboro",2,0,1,1,0,"0",0,1,2,1,0,58304,4
+"California","Cities","San Luis Obispo",1,0,1,0,0,"0",0,0,0,2,0,46095,2
+"Massachusetts","Cities","Haverhill",2,1,3,2,0,"0",0,4,2,1,1,62249,8
+"California","Cities","Stockton",1,0,1,0,0,"0",0,1,0,0,1,299796,2
+"New_York","Cities","Freeport Village",0,0,0,1,0,"0",0,1,0,0,0,43214,1
+"Oregon","Cities","Newport",0,0,1,0,0,"0",0,0,1,0,0,10029,1
+"Virginia","Cities","Charlottesville",1,0,0,0,0,"0",0,0,1,0,0,44187,1
+"Texas","Cities","Corpus Christi",0,0,1,0,0,"0",0,0,0,0,1,314523,1
+"Texas","Cities","Marble Falls",1,0,0,0,0,"0",0,0,0,1,0,6095,1
+"Ohio","Cities","Austintown",2,0,0,0,0,"0",0,0,1,1,0,36192,2
+"Washington","Cities","Tumwater",1,0,0,0,0,"0",0,0,0,0,1,18343,1
+"Michigan","Cities","Port Huron",0,0,2,0,0,"0",0,1,0,1,0,29542,2
+"Michigan","Cities","Clinton Township",4,0,0,0,0,"0",0,1,2,0,1,98071,4
+"Minnesota","Cities","Elk River",1,0,0,0,0,"0",0,0,0,0,1,23351,1
+"North_Carolina","Cities","Salisbury",1,0,0,0,0,"0",0,0,0,0,1,33626,1
+"Ohio","Universities and Colleges","Kent State University",0,0,1,0,0,"0",0,0,0,1,0,28602,1
+"New_York","Cities","Owego Village",0,0,1,0,0,"0",0,0,0,1,0,3818,1
+"Florida","Cities","Weston",1,0,0,0,0,"0",0,0,0,0,1,68369,1
+"North_Carolina","Cities","Wrightsville Beach",1,0,0,0,0,"0",0,0,1,0,0,2551,1
+"Washington","Cities","Oak Harbor",1,0,0,0,0,"0",0,0,0,1,0,22288,1
+"New_Jersey","Cities","Lawrence Township, Mercer County",0,0,0,1,0,"0",0,0,0,1,0,33172,1
+"Arkansas","Cities","England",1,0,0,0,0,"0",0,0,1,0,0,2806,1
+"Massachusetts","Cities","Dover",0,0,1,0,0,"0",0,0,0,1,0,5778,1
+"California","Cities","Vista",1,0,1,0,0,"0",0,0,1,0,1,96712,2
+"New_York","Cities","Canandaigua",1,0,0,0,0,"0",0,0,1,0,0,10470,1
+"Michigan","Cities","Brownstown Township",1,0,0,0,0,"0",0,0,1,0,0,30388,1
+"Massachusetts","Cities","Sharon",0,1,0,0,0,"0",0,0,1,0,0,17935,1
+"Illinois","Cities","Harvey",1,0,0,0,0,"0",0,0,0,0,1,25408,1
+"New_Jersey","Cities","Logan Township",1,0,0,0,0,"0",0,0,0,1,0,6019,1
+"Rhode_Island","Cities","West Warwick",0,1,0,0,0,"0",0,0,0,0,1,28817,1
+"Massachusetts","Cities","Peabody",0,0,0,2,0,"0",0,0,0,2,0,52178,2
+"Maine","Cities","Scarborough",0,0,1,0,0,"0",0,0,1,0,0,19252,1
+"New_Jersey","Cities","Trenton",1,0,1,0,0,"0",0,0,1,1,0,84439,2
+"New_York","Cities","Croton-on-Hudson Village",0,0,0,0,0,"1",0,0,1,0,0,8180,1
+"Ohio","Cities","Cincinnati",9,0,1,5,1,"0",0,4,0,2,10,296491,16
+"New_Jersey","Cities","Woolwich Township",1,0,0,0,0,"0",0,0,1,0,0,11167,1
+"New_York","Cities","Ramapo Town",0,1,0,0,0,"0",0,0,0,NA,1,87204,1
+"Connecticut","Cities","Winchester",2,0,0,0,0,"0",0,2,0,0,0,11019,2
+"Pennsylvania","Universities and Colleges","Lehigh University",1,0,0,0,0,"0",0,0,0,0,1,7080,1
+"Texas","Cities","Bellmead",2,0,0,0,0,"0",0,0,1,0,1,9950,2
+"California","Cities","Ridgecrest",0,0,1,0,0,"0",0,0,1,0,0,28537,1
+"California","Cities","Yorba Linda",1,0,0,0,0,"0",0,0,0,0,1,67492,1
+"Vermont","Cities","Castleton",0,0,1,0,0,"0",0,0,0,0,1,4649,1
+"Michigan","Cities","Adrian",0,0,1,0,0,"0",0,0,1,0,NA,20759,1
+"California","Cities","Coronado",0,1,0,0,0,"0",0,1,0,0,0,23183,1
+"Michigan","Cities","Benton Harbor",3,0,0,0,0,"0",0,1,0,2,0,10039,3
+"California","Cities","Norwalk",4,1,0,0,0,"0",0,0,4,0,1,106518,5
+"Minnesota","Cities","Savage",0,0,1,0,0,"0",0,0,1,0,0,28285,1
+"New_Jersey","Cities","Middletown Township",1,0,0,0,0,"0",0,0,1,0,0,66246,1
+"California","Cities","Paramount",2,0,0,0,0,"0",0,0,1,0,1,54868,2
+"Connecticut","Cities","Norwalk",1,0,1,1,0,"0",0,0,0,3,0,87590,3
+"Connecticut","Cities","Enfield",1,0,0,0,0,"0",0,NA,1,NA,NA,44661,1
+"California","Cities","Arcadia",1,0,0,0,0,"0",0,1,0,0,0,57855,1
+"Kentucky","Cities","Berea",0,1,1,0,0,"0",0,0,1,0,1,14331,2
+"California","Cities","Fontana",1,0,0,0,0,"0",0,0,1,0,0,203427,1
+"Delaware","Cities","Dover",0,0,1,0,0,"0",0,0,0,1,0,37402,1
+"Texas","Cities","Bellaire",0,0,1,0,0,"0",0,0,0,1,0,17617,1
+"Massachusetts","Cities","Lakeville",0,1,0,0,0,"0",0,0,1,0,0,10939,1
+"Oregon","Cities","Eugene",6,4,3,2,0,"0",0,1,9,1,4,158499,15
+"New_Hampshire","Cities","Conway",0,0,1,0,0,"0",0,1,0,0,0,10056,1
+"Missouri","Cities","St. Louis",4,1,7,0,0,"0",0,3,2,2,5,318563,12
+"Kentucky","Cities","Ludlow",1,0,0,0,1,"0",0,0,2,0,0,4536,2
+"Michigan","Cities","Charlotte",1,0,0,0,0,"0",0,0,1,0,0,9046,1
+"Ohio","Cities","Greenhills",1,0,0,0,1,"0",0,2,0,0,0,3591,2
+"South_Carolina","Cities","Honea Path",1,0,0,0,0,"0",0,0,0,0,1,3613,1
+"Montana","Cities","Great Falls",1,0,0,0,0,"0",0,0,0,0,1,58940,1
+"Tennessee","Cities","Nashville",4,0,1,1,0,"0",0,3,1,1,1,635673,6
+"Illinois","Cities","Irving",1,0,0,0,0,"0",0,0,1,0,0,485,1
+"Arkansas","Cities","Sherwood",1,0,0,0,0,"0",0,1,0,0,0,29900,1
+"Massachusetts","Cities","Chelsea",1,0,0,0,0,"0",0,0,0,0,1,37454,1
+"Arizona","Cities","Maricopa",1,0,0,0,0,"0",0,0,0,0,1,44871,1
+"California","Cities","Concord",1,0,0,0,0,"0",0,0,1,0,0,125464,1
+"Montana","Cities","Kalispell",2,0,0,0,0,"0",0,0,0,2,0,20665,2
+"Kansas","Cities","Belleville",1,0,0,0,0,"0",0,1,0,0,0,1928,1
+"Virginia","Cities","Manassas",1,0,0,0,0,"0",0,0,0,1,0,41512,1
+"Utah","Cities","Roy",1,1,0,0,0,"0",0,0,1,1,0,37810,2
+"Ohio","Universities and Colleges","Bowling Green State University",1,0,0,0,0,"0",0,1,0,0,0,17286,1
+"New_York","Cities","Amherst Town",3,0,0,0,0,"0",0,0,0,1,2,118296,3
+"North_Carolina","Cities","New Bern",1,0,0,0,0,"0",0,0,1,0,0,30514,1
+"Massachusetts","Cities","Middleboro",1,0,0,0,0,"0",0,0,1,0,0,23547,1
+"New_York","Universities and Colleges","State University of New York College: Potsdam",1,0,1,0,0,"0",0,1,0,0,1,4224,2
+"Connecticut","Cities","New London",1,0,2,0,0,"0",0,3,0,0,0,27738,3
+"Utah","Universities and Colleges","University of Utah",3,0,0,0,0,"0",0,1,0,0,2,32388,3
+"Michigan","Cities","Saline",1,0,0,0,0,"0",0,0,0,0,1,9028,1
+"California","Cities","Lodi",0,0,0,2,0,"0",0,0,1,1,0,63639,2
+"Oklahoma","Cities","Tonkawa",1,0,0,0,0,"0",0,0,1,0,0,3150,1
+"South_Carolina","Cities","Holly Hill",1,0,0,0,0,"0",0,1,0,0,0,1259,1
+"Ohio","Cities","Ottawa Hills",1,0,0,0,0,"0",0,1,0,0,0,4481,1
+"Louisiana","Universities and Colleges","University of New Orleans",1,0,0,0,0,"0",0,1,0,NA,0,10071,1
+"California","Cities","Colton",1,0,0,0,0,"0",0,0,0,0,1,53403,1
+"North_Carolina","Cities","Wadesboro",1,0,0,0,0,"0",0,0,0,1,0,5673,1
+"Ohio","Cities","Wooster",1,1,0,0,0,"0",0,1,1,0,0,26468,2
+"California","Cities","Richmond",1,0,2,0,0,"0",0,0,0,2,1,107341,3
+"Ohio","Cities","Miami Township, Montgomery County",2,0,0,0,0,"0",0,0,2,0,0,29128,2
+"Ohio","Cities","Struthers",1,1,0,0,1,"0",0,0,2,0,1,10522,3
+"Tennessee","Cities","Atoka",0,0,0,0,1,"0",0,0,0,1,0,8821,1
+"Colorado","Cities","Aurora",4,0,1,1,0,"0",0,1,3,0,2,343484,6
+"Michigan","Cities","Essexville",0,1,0,0,0,"0",0,1,0,0,0,3436,1
+"Florida","Cities","Largo",0,0,1,0,0,"0",0,0,1,0,0,77913,1
+"Minnesota","Cities","St. Anthony",1,0,0,0,0,"0",0,0,1,0,0,8445,1
+"California","Cities","Lynwood",1,0,0,0,0,"0",0,0,0,0,1,71077,1
+"California","Cities","Walnut Creek",1,0,0,0,0,"0",0,0,0,0,1,66149,1
+"Michigan","Cities","Waterford Township",0,1,0,0,0,"0",0,0,0,1,0,72949,1
+"New_Jersey","Cities","Franklin Lakes",0,1,0,1,0,"0",0,1,1,0,0,10746,2
+"New_York","Cities","Buffalo",11,1,2,2,0,"1",0,6,3,4,4,258789,17
+"New_Jersey","Cities","Parsippany-Troy Hills Township",0,2,0,0,0,"0",0,0,0,0,2,53851,2
+"Colorado","Cities","Durango",0,0,2,0,0,"0",0,1,0,1,0,17303,2
+"New_Jersey","Cities","Lumberton Township",2,0,0,0,0,"0",0,0,0,2,0,12516,2
+"Oregon","Cities","Ashland",1,0,0,0,0,"0",0,1,0,0,0,20455,1
+"Washington","Cities","Bellevue",0,1,0,0,0,"0",0,1,0,0,0,127678,1
+"Michigan","Cities","Garden City",1,0,0,0,0,"0",0,1,0,0,0,27110,1
+"Kentucky","Universities and Colleges","Morehead State University",1,0,0,0,0,"0",0,0,0,1,0,11169,1
+"California","Cities","Palm Springs",3,1,4,0,0,"0",0,4,1,2,1,46282,8
+"Michigan","Cities","Romeo",2,0,0,0,0,"0",0,0,0,2,0,3597,2
+"Nevada","Cities","Henderson",1,0,0,0,0,"0",0,NA,NA,1,NA,268237,1
+"California","Cities","Red Bluff",2,0,1,0,0,"0",0,0,1,0,2,14170,3
+"California","Cities","Pico Rivera",0,0,1,1,0,"0",0,1,1,0,0,63710,2
+"Kansas","Cities","Pratt",1,0,0,0,0,"0",0,0,0,0,1,6900,1
+"North_Dakota","Cities","Mandan",2,0,0,0,0,"0",0,0,0,1,1,19168,2
+"Florida","Cities","Homestead",2,0,1,0,0,"0",0,2,1,0,0,64024,3
+"Utah","Cities","South Jordan",0,1,0,0,0,"0",0,0,1,0,0,57593,1
+"New_Jersey","Cities","Asbury Park",1,0,3,0,0,"0",0,1,2,1,0,15779,4
+"Texas","Cities","Garland",1,0,1,0,0,"0",0,1,0,1,0,235683,2
+"North_Carolina","Cities","Albemarle",1,0,0,0,0,"0",0,0,0,0,1,15946,1
+"California","Cities","Alhambra",1,0,0,0,0,"0",0,0,0,0,1,84710,1
+"New_Jersey","Cities","Greenwich Township, Warren County",1,0,0,0,0,"0",0,0,0,0,1,5582,1
+"North_Carolina","Cities","Asheboro",1,0,0,0,0,"0",0,0,0,0,1,25665,1
+"California","Cities","Murrieta3",3,1,1,0,0,"0",0,2,2,1,0,107768,5
+"Kentucky","Cities","Louisville Metro",7,0,4,0,0,"0",0,2,4,3,2,671120,11
+"Michigan","Cities","Benton Township",2,0,0,0,0,"0",0,0,0,1,1,14578,2
+"Ohio","Cities","Warren",3,0,0,0,1,"0",0,0,3,1,0,40474,4
+"Utah","Cities","Woods Cross",2,0,0,0,0,"0",0,0,1,0,1,10343,2
+"California","Cities","Sunnyvale",1,0,0,0,0,"0",0,0,1,0,0,148160,1
+"Michigan","Cities","Traverse City",0,0,1,0,0,"0",0,0,1,0,0,14989,1
+"Maryland","Cities","Greenbelt",0,0,1,0,0,"0",0,0,1,0,0,23680,1
+"Washington","Cities","Aberdeen",3,0,0,1,0,"0",0,1,1,0,2,16408,4
+"Florida","Cities","St. Petersburg",0,1,0,0,0,"0",0,0,1,0,0,247084,1
+"Kentucky","Cities","Mount Washington",1,0,0,0,0,"0",0,0,0,0,1,9377,1
+"New_York","Cities","Liberty Village",0,4,0,0,0,"0",0,0,0,0,4,4285,4
+"Ohio","Cities","Bucyrus",0,0,0,1,0,"0",0,NA,0,0,1,12007,1
+"New_Jersey","Cities","Nutley Township",2,1,0,0,0,"0",0,0,1,2,0,28660,3
+"Wisconsin","Cities","River Falls",2,0,0,0,0,"0",0,2,0,0,0,15227,2
+"South_Carolina","Cities","Orangeburg",0,0,1,0,0,"0",0,0,1,0,0,13826,1
+"Ohio","Cities","Montgomery",2,0,0,0,0,"0",0,0,1,1,0,10305,2
+"New_Jersey","Cities","Palmyra",1,0,0,0,0,"0",0,0,0,1,0,7412,1
+"Massachusetts","Cities","Marblehead",1,0,0,0,0,"0",0,0,1,0,0,20209,1
+"California","Cities","San Jose",6,2,6,1,0,"0",0,7,1,2,5,992143,15
+"Massachusetts","Cities","Saugus",0,0,1,0,0,"0",0,0,0,1,0,27628,1
+"New_Jersey","Cities","Harrison Township",1,0,0,0,0,"0",0,0,0,1,0,12616,1
+"California","Cities","El Monte",5,0,0,0,0,"0",0,0,3,0,2,115591,5
+"Michigan","Cities","Huntington Woods",0,2,0,0,0,"0",0,2,0,0,0,6305,2
+"Michigan","Cities","Canton Township",1,1,0,0,0,"0",0,0,1,1,0,88958,2
+"Minnesota","Cities","Duluth",1,0,0,0,0,"0",0,1,0,0,0,86211,1
+"Wisconsin","Cities","Merrill",0,0,0,1,0,"0",0,0,1,0,0,9427,1
+"Minnesota","Cities","Faribault",0,0,1,0,0,"0",0,NA,NA,1,NA,23405,1
+"Minnesota","Cities","Lino Lakes",0,0,1,0,0,"0",0,NA,0,0,1,20910,1
+"Michigan","Cities","Sault Ste. Marie",1,1,0,0,0,"0",0,0,0,1,1,14203,2
+"Texas","Cities","Plano",1,0,0,1,0,"0",0,1,0,0,1,275795,2
+"North_Carolina","Universities and Colleges","University of North Carolina: Wilmington",1,0,0,0,0,"0",0,0,0,1,0,13733,1
+"Indiana","Cities","South Bend",2,0,1,0,0,"0",0,1,NA,2,NA,100711,3
+"North_Carolina","Cities","Thomasville",1,0,0,0,0,"0",0,0,0,1,0,26866,1
+"Washington","Cities","Mount Vernon",0,1,0,0,0,"0",0,0,0,0,1,32450,1
+"Illinois","Cities","Peoria",3,0,2,0,0,"0",0,2,1,1,1,115953,5
+"California","Cities","Antioch",2,0,0,0,0,"0",0,1,1,0,0,106447,2
+"Massachusetts","Cities","Edgartown",1,0,0,0,0,"0",0,1,0,0,0,4252,1
+"Kentucky","Cities","St. Matthews",2,0,0,0,0,"0",0,0,1,0,1,17768,2
+"California","Cities","Temple City",0,1,0,0,0,"0",0,0,0,0,1,36269,1
+"Pennsylvania","Cities","Ferguson Township",0,1,0,0,0,"0",0,1,0,0,0,17807,1
+"Colorado","Cities","Thornton",0,1,2,0,0,"0",0,0,0,1,2,125775,3
+"New_Hampshire","Cities","Farmington",1,0,0,0,0,"0",0,0,0,1,0,6799,1
+"California","Cities","Santa Maria",0,0,1,0,0,"0",0,0,0,0,1,102051,1
+"Kentucky","Cities","Morehead",1,0,0,0,0,"0",0,0,0,1,0,6864,1
+"South_Carolina","Cities","Forest Acres",1,0,0,0,0,"0",0,0,1,0,0,10516,1
+"New_Jersey","Cities","Hoboken",3,3,1,0,0,"0",0,1,2,1,3,52771,7
+"Ohio","Cities","Moraine",0,0,1,1,0,"0",0,1,0,0,1,6317,2
+"New_Jersey","Cities","West Milford Township",3,0,0,0,0,"0",0,2,0,1,0,26095,3
+"Colorado","Cities","Arvada",2,0,0,0,0,"0",0,0,0,1,1,110792,2
+"California","Cities","Santa Cruz",1,0,1,0,0,"0",0,1,0,0,1,62517,2
+"Kansas","Cities","Hays",1,0,1,0,0,"0",0,0,2,0,0,21156,2
+"Michigan","Cities","Hamtramck",1,0,1,0,0,"0",0,0,0,1,1,22017,2
+"Texas","Cities","McAllen",0,0,1,0,0,"0",0,0,1,0,0,136169,1
+"Texas","Cities","Fort Worth",9,0,2,5,0,"0",0,5,1,6,4,789035,16
+"California","Cities","Union City",1,0,0,4,0,"0",0,1,3,1,0,72480,5
+"New_Hampshire","Cities","Keene",0,1,0,0,0,"0",0,0,0,1,0,23236,1
+"Massachusetts","Cities","Waltham",0,1,1,0,0,"0",0,0,0,1,1,62446,2
+"New_Jersey","Cities","Burlington Township",0,1,0,0,0,"0",0,1,0,0,0,22750,1
+"Washington","Cities","Everett",1,1,2,2,0,"0",0,2,1,1,2,105129,6
+"Vermont","Cities","Springfield",1,0,0,0,0,"0",0,0,0,0,1,9259,1
+"Kentucky","Cities","Richmond",1,1,1,0,0,"0",0,1,1,0,1,32333,3
+"New_Jersey","Cities","Woodbridge Township",1,2,0,0,0,"0",0,0,2,0,1,100568,3
+"Ohio","Cities","Nelsonville",1,0,0,0,0,"0",0,0,0,1,0,5334,1
+"Kentucky","Cities","Madisonville",1,0,0,0,0,"0",0,1,0,0,0,19761,1
+"Michigan","Cities","Fraser",2,0,0,0,0,"0",0,0,1,1,0,14529,2
+"Idaho","Cities","Coeur d'Alene",2,0,0,0,0,"0",0,0,1,0,1,46023,2
+"Connecticut","Cities","Groton",1,1,0,0,0,"0",0,0,1,1,0,9359,2
+"Connecticut","Cities","Bridgeport",5,1,2,3,0,"0",0,2,4,3,2,147076,11
+"Virginia","Cities","Galax",0,0,0,1,0,"0",0,0,0,0,1,6870,1
+"Michigan","Cities","Marshall",1,0,0,0,0,"0",0,0,0,0,1,7050,1
+"Florida","Cities","Venice",0,2,0,0,0,"0",0,2,0,0,0,21151,2
+"Pennsylvania","Cities","Northern York Regional",1,0,0,0,0,"0",0,1,0,0,0,67657,1
+"California","Cities","Yuba City",0,0,0,1,0,"0",0,0,0,1,0,65133,1
+"Michigan","Cities","Fruitport",1,0,0,0,0,"0",0,0,0,0,1,1090,1
+"Michigan","Universities and Colleges","University of Michigan, Ann Arbor",0,1,1,0,0,"0",0,1,1,0,0,43426,2
+"Florida","Cities","Palm Bay",0,1,0,1,0,"0",0,0,0,0,2,104391,2
+"New_Jersey","Cities","Clark Township",0,1,0,0,0,"0",0,0,1,0,0,15021,1
+"West_Virginia","Cities","Fairmont",1,1,0,0,0,"0",0,0,2,0,0,18740,2
+"Massachusetts","Cities","Monson",0,0,1,0,0,"0",0,0,0,0,1,8716,1
+"New_York","Universities and Colleges","State University of New York College: Oneonta",0,2,0,0,0,"0",0,0,0,1,1,6041,2
+"Washington","Cities","Tukwila",1,0,0,0,0,"0",0,1,0,0,0,19765,1
+"Minnesota","Cities","Shoreview",0,0,1,0,0,"0",0,0,0,1,NA,25810,1
+"Virginia","Universities and Colleges","Virginia Military Institute",1,0,0,0,0,"0",0,1,0,0,0,1664,1
+"New_Jersey","Cities","Montclair",4,2,0,0,0,"0",0,2,2,1,1,37962,6
+"Michigan","Cities","Northfield Township",1,0,0,0,0,"0",0,0,0,0,1,8387,1
+"New_York","Cities","Saratoga Springs",1,2,0,0,0,"0",0,0,0,1,2,27081,3
+"Tennessee","Universities and Colleges","Southwest Tennessee Community College",0,0,1,0,0,"0",0,0,1,0,0,12220,1
+"Michigan","Cities","Novi",1,0,0,0,0,"0",0,0,0,1,0,57469,1
+"California","Cities","Redondo Beach",2,0,1,2,0,"0",0,1,2,1,1,67993,5
+"Colorado","Cities","Centennial",3,2,1,0,0,"0",0,2,2,1,1,104771,6
+"Massachusetts","Universities and Colleges","Tufts University, Medford",0,1,1,0,0,"0",0,0,0,1,1,10837,2
+"Virginia","Cities","Norfolk",3,3,1,0,0,"0",0,0,5,1,1,247303,7
+"California","Cities","La Quinta",1,1,0,0,0,"0",0,1,0,1,0,39150,2
+"Michigan","Cities","Midland",0,0,2,0,0,"0",0,1,1,0,0,42072,2
+"Ohio","Cities","Mount Vernon",2,0,0,0,0,"0",0,1,0,1,0,16748,2
+"Texas","Cities","Victoria",0,2,0,0,0,"0",0,0,0,1,1,64979,2
+"Massachusetts","Cities","Somerville",0,0,1,1,0,"0",0,0,0,0,2,77768,2
+"Wyoming","Cities","Gillette",0,0,0,1,0,"0",0,0,0,1,0,31884,1
+"Pennsylvania","Cities","State College",0,2,0,0,0,"0",0,0,0,0,2,56612,2
+"New_York","Cities","Rochester",3,1,0,0,0,"0",0,0,2,2,0,210562,4
+"New_Jersey","Cities","Oakland",1,2,2,0,0,"0",0,1,2,1,1,12927,5
+"Michigan","Cities","Wayne",4,0,0,0,0,"0",0,1,1,1,1,17232,4
+"Montana","Universities and Colleges","Montana State University",1,0,0,0,0,"0",0,0,1,0,0,14269,1
+"North_Carolina","Cities","Burlington",1,0,0,0,0,"0",0,0,0,0,1,51401,1
+"Kentucky","Cities","Georgetown",2,0,0,0,0,"0",0,0,0,2,0,30611,2
+"Oklahoma","Cities","Oklahoma City",7,2,2,1,0,"0",0,3,4,3,2,605034,12
+"New_Jersey","Cities","Green Brook Township",0,2,0,0,0,"0",0,1,1,0,0,7240,2
+"Texas","Cities","Frisco",1,1,0,0,0,"0",0,0,2,0,0,131769,2
+"Minnesota","Cities","Inver Grove Heights",0,1,0,0,0,"0",0,1,0,0,0,34294,1
+"Georgia","Cities","Atlanta",5,1,12,2,1,"0",0,8,11,2,0,451020,21
+"Texas","Universities and Colleges","University of Texas, Austin",1,0,0,0,0,"0",0,1,0,0,0,52186,1
+"Illinois","Cities","Springfield",5,0,0,0,0,"0",0,0,2,2,1,117351,5
+"Rhode_Island","Cities","Providence",0,0,0,1,0,"0",0,1,0,0,0,178887,1
+"Arkansas","Cities","Berryville",1,0,0,0,0,"0",0,0,0,1,0,5417,1
+"New_York","Cities","Middletown",1,0,0,0,0,"0",0,0,0,1,0,27809,1
+"North_Dakota","Cities","Beulah",0,0,0,1,0,"0",0,1,0,0,0,3149,1
+"Pennsylvania","Cities","Philadelphia",14,1,0,1,0,"0",0,3,11,1,1,1553153,16
+"Virginia","Cities","Suffolk",3,0,0,0,0,"0",0,0,1,2,0,85475,3
+"California","Cities","Roseville",0,0,1,0,0,"0",0,0,1,0,0,126236,1
+"Texas","Cities","Temple",1,0,0,0,0,"0",0,0,0,1,0,69937,1
+"Kansas","Cities","McPherson",1,0,1,0,1,"0",0,0,1,2,0,13245,3
+"Massachusetts","Cities","Belmont",0,0,0,1,0,"0",0,0,1,0,0,25421,1
+"California","Cities","Claremont",1,1,1,0,0,"0",0,2,0,0,1,35623,3
+"California","Cities","Duarte",1,0,1,0,0,"0",0,1,0,1,0,21759,2
+"Massachusetts","Cities","Provincetown",0,1,0,0,0,"0",0,1,0,0,0,2983,1
+"North_Carolina","Cities","Asheville",5,2,2,1,0,"0",0,3,0,3,4,86445,10
+"Kentucky","Cities","Williamsburg",1,0,0,0,0,"0",0,1,0,0,0,5258,1
+"Washington","Cities","Auburn",5,1,0,3,0,"0",1,1,1,4,4,74565,10
+"Nebraska","Cities","Sidney",0,0,1,0,0,"0",0,1,0,NA,NA,6831,1
+"Louisiana","Cities","New Orleans",1,1,5,1,0,"0",0,2,3,3,0,377022,8
+"Oklahoma","Universities and Colleges","Southwestern Oklahoma State University",0,0,1,0,0,"0",0,0,0,0,1,5106,1
+"New_Jersey","Cities","Belleville",0,0,2,0,0,"0",0,0,0,1,1,36229,2
+"Washington","Cities","Wenatchee",1,0,0,1,0,"0",0,0,0,1,1,32677,2
+"New_Jersey","Cities","Egg Harbor Township",2,0,0,1,0,"0",0,0,2,0,1,43709,3
+"Connecticut","Cities","New Milford",0,0,0,1,0,"0",0,0,1,0,0,27743,1
+"Connecticut","Cities","Plainville",0,0,1,0,0,"0",0,NA,NA,NA,1,17850,1
+"New_Jersey","Cities","Monroe Township, Middlesex County",8,1,1,1,0,"0",0,1,0,2,8,41356,11
+"Michigan","Cities","Detroit",2,0,1,0,0,"0",0,0,0,1,2,699889,3
+"Michigan","Cities","Kalamazoo",4,0,0,0,0,"0",0,0,3,1,0,75352,4
+"Washington","Cities","Lacey",0,1,0,0,0,"0",0,0,0,0,1,44298,1
+"Utah","Cities","Draper",0,1,0,0,0,"0",0,0,0,1,0,44680,1
+"Texas","Cities","Terrell",1,0,0,0,0,"0",0,1,0,0,0,16233,1
+"Ohio","Cities","Englewood",0,0,1,0,0,"0",0,0,0,1,0,13455,1
+"California","Cities","Elk Grove",1,0,0,0,0,"0",0,0,0,0,1,160925,1
+"New_Jersey","Cities","Mount Olive Township",0,0,0,2,0,"0",0,0,1,0,1,28611,2
+"Washington","Cities","Orting",1,0,0,0,0,"0",0,0,0,0,1,6913,1
+"South_Carolina","Cities","St. George",1,0,0,0,0,"0",0,1,0,0,0,2139,1
+"California","Cities","Cypress",0,0,0,1,0,"0",0,0,0,1,0,49067,1
+"Oklahoma","Cities","Bixby",1,0,0,0,0,"0",0,0,1,0,0,23122,1
+"Ohio","Cities","East Liverpool",1,1,0,0,0,"0",0,2,0,NA,NA,11010,2
+"New_York","Cities","Monroe Village",0,2,0,0,0,"0",0,0,1,0,1,8544,2
+"Washington","Cities","Kalama",1,0,0,0,0,"0",0,0,0,1,0,2316,1
+"Florida","Cities","Delray Beach",1,0,0,0,0,"0",0,0,1,0,0,62887,1
+"California","Cities","La Mirada",1,2,0,0,0,"0",0,1,2,0,0,49150,3
+"New_Jersey","Cities","Manasquan",1,2,0,0,0,"0",0,1,2,0,0,5860,3
+"Michigan","Cities","Elk Rapids",1,0,0,0,0,"0",0,0,1,0,0,1629,1
+"Michigan","Cities","Troy",2,1,0,0,0,"0",0,0,1,0,2,82608,3
+"Wisconsin","Cities","Oak Creek",0,1,0,1,0,"0",0,2,0,0,0,35046,2
+"Oklahoma","Cities","Broken Arrow",0,0,0,1,0,"0",0,0,0,1,0,102956,1
+"Indiana","Cities","Mishawaka",0,0,2,0,0,"0",0,NA,1,1,NA,47967,2
+"North_Carolina","Cities","Carrboro",1,0,0,0,0,"0",0,0,0,0,1,20709,1
+"Indiana","Cities","Bloomington",8,0,2,0,0,"0",0,1,5,3,1,82415,10
+"West_Virginia","Cities","Beckley",3,0,1,0,0,"0",0,0,3,1,0,17593,4
+"Missouri","Cities","Springfield",1,1,1,0,0,"0",0,0,3,0,0,163062,3
+"Virginia","Cities","Farmville",1,0,0,0,0,"0",0,0,1,0,0,8142,1
+"California","Cities","Huntington Beach",0,0,0,0,0,"0",1,0,1,0,0,195842,1
+"Arizona","Cities","Glendale",2,3,1,1,0,"0",0,2,0,3,2,234006,7
+"Michigan","Cities","Grosse Pointe Park",1,0,0,0,0,"0",0,0,0,1,0,11287,1
+"South_Carolina","Universities and Colleges","University of South Carolina, Upstate",1,0,0,0,0,"0",0,1,0,0,0,5561,1
+"Iowa","Cities","Grinnell",0,0,1,0,0,"0",0,0,0,0,1,9090,1
+"Kentucky","Cities","Newport",5,0,0,0,0,"0",0,0,1,1,3,15425,5
+"Washington","Cities","Redmond",1,0,0,0,0,"0",0,0,1,0,0,57263,1
+"Arkansas","Cities","North Little Rock",1,0,0,0,0,"0",0,0,1,0,0,65398,1
+"California","Cities","Galt",1,0,0,0,0,"0",0,0,0,1,0,24553,1
+"Arizona","Cities","Prescott",0,0,0,1,0,"0",0,0,0,0,1,40752,1
+"California","Cities","San Leandro",3,0,1,1,0,"0",0,2,1,2,0,87490,5
+"South_Dakota","Cities","Aberdeen",1,0,0,0,0,"0",0,0,0,0,1,26999,1
+"Massachusetts","Cities","Framingham",2,0,0,0,0,"0",0,0,0,2,0,70753,2
+"New_Mexico","Cities","Albuquerque",5,1,4,0,0,"0",0,2,1,6,1,558165,10
+"California","Cities","Turlock",1,0,0,0,0,"0",0,0,0,0,1,70075,1
+"Washington","Universities and Colleges","Western Washington University",0,0,1,0,0,"0",0,0,1,0,0,14833,1
+"Tennessee","Cities","Pigeon Forge",0,0,0,1,0,"0",0,0,1,0,0,6023,1
+"Illinois","Cities","Roscoe",1,0,0,0,0,"0",0,0,1,0,0,10700,1
+"DC","Cities","Washington",18,6,31,3,0,"0",12,19,21,20,10,646449,70
+"Colorado","Cities","Monument",0,1,0,0,0,"0",0,0,0,1,0,5800,1
+"Maine","Cities","Wiscasset",1,0,0,0,0,"0",0,1,0,0,0,3673,1
+"Ohio","Cities","Mansfield",4,0,0,0,0,"0",0,0,3,0,1,46832,4
+"North_Carolina","Cities","Wilson",0,0,1,0,0,"0",0,0,0,0,1,49737,1
+"Arizona","Cities","Gilbert",1,0,0,0,0,"0",0,1,0,0,0,225232,1
+"South_Carolina","Cities","Mauldin",0,0,0,1,0,"0",0,0,0,1,0,24099,1
+"Iowa","Cities","Ames",1,0,0,1,0,"0",0,0,0,1,1,61193,2
+"California","Cities","Irvine",0,1,0,0,0,"0",0,0,1,0,0,235830,1
+"Arizona","Cities","Eagar",0,0,0,1,0,"0",0,0,1,0,0,5034,1
+"Michigan","Cities","Grosse Pointe Woods",0,0,0,1,0,"0",0,0,1,0,0,15760,1
+"Colorado","Cities","Rifle",0,0,0,1,0,"0",0,1,0,0,0,9306,1
+"Massachusetts","Cities","New Bedford",0,0,0,1,0,"0",0,0,0,1,0,95156,1
+"Washington","Cities","Shelton",0,0,0,1,0,"0",0,0,1,0,0,9780,1
+"Virginia","Cities","Richmond",0,0,0,1,0,"0",0,0,1,0,0,212830,1
+"Connecticut","Cities","Hamden",0,1,0,0,0,"0",0,0,1,0,0,60829,1
+"Oklahoma","Cities","Muskogee",1,1,1,0,0,"0",0,1,1,1,0,38884,3
+"Michigan","Universities and Colleges","Oakland University3",0,3,0,1,1,"0",0,1,0,3,1,19740,5
+"Michigan","Cities","Roseville",5,0,1,0,0,"0",0,1,3,2,0,47327,6
+"North_Carolina","Cities","Chapel Hill",0,0,0,1,0,"0",0,0,1,0,0,58744,1
+"Kentucky","Cities","Hopkinsville",1,0,1,0,0,"0",0,0,0,1,1,33253,2
+"New_Jersey","Cities","Medford Township",4,2,1,0,0,"0",0,2,1,1,3,23285,7
+"Michigan","Cities","Grand Rapids",2,0,1,0,0,"0",0,1,2,0,0,191213,3
+"Oklahoma","Cities","Fairfax",1,0,0,0,0,"0",0,1,0,0,0,1373,1
+"Ohio","Cities","Findlay",1,0,1,0,0,"0",0,0,1,0,1,41660,2
+"Tennessee","Cities","Fayetteville",1,0,0,0,0,"0",0,0,0,1,0,7155,1
+"New_Jersey","Cities","Raritan",0,0,2,0,0,"0",0,0,0,0,2,7352,2
+"Ohio","Cities","Akron",5,0,2,1,0,"0",0,3,3,2,0,198405,8
+"Wisconsin","Cities","Fond du Lac",1,0,0,1,0,"0",0,0,1,0,1,43042,2
+"New_Jersey","Cities","Burlington",0,0,0,0,1,"0",0,1,0,0,0,9865,1
+"Wisconsin","Universities and Colleges","University of Wisconsin, Platteville",0,1,2,0,0,"0",0,3,0,0,0,8668,3
+"Connecticut","Cities","Glastonbury",1,0,0,0,0,"0",0,1,0,0,0,34782,1
+"Colorado","Cities","Denver",9,5,15,1,0,"0",0,3,13,9,5,648981,30
+"South_Carolina","Cities","Winnsboro",0,6,0,0,0,"0",0,2,3,0,1,3428,6
+"Michigan","Cities","Three Rivers",1,0,0,0,0,"0",0,0,0,0,1,7712,1
+"California","Cities","Agoura Hills",2,0,0,0,0,"0",0,0,2,0,0,20762,2
+"Virginia","Cities","Hopewell",0,1,0,0,0,"0",0,0,0,1,0,22305,1
+"Massachusetts","Cities","Westborough",1,0,0,0,0,"0",0,0,0,1,0,18563,1
+"Arizona","Cities","Tucson",13,6,6,1,0,"0",0,8,8,6,4,525486,26
+"Illinois","Cities","Morton",0,0,1,0,0,"0",0,0,0,1,0,16462,1
+"Massachusetts","Cities","Quincy",6,3,0,4,0,"0",0,4,2,4,3,93490,13
+"California","Cities","Banning",0,0,0,1,0,"0",0,0,0,1,0,30503,1
+"Kentucky","Cities","Paducah",1,0,0,0,0,"0",0,0,0,0,1,25064,1
+"Indiana","Cities","Fort Wayne",1,0,0,0,0,"0",0,0,1,0,0,254820,1
+"Michigan","Cities","Saginaw Township",0,1,0,0,0,"0",0,0,0,0,1,40636,1
+"Connecticut","Cities","Wolcott",1,0,0,0,0,"0",0,0,1,0,0,16735,1
+"California","Cities","Saratoga",1,0,0,0,0,"0",0,0,1,0,0,30897,1
+"California","Cities","Alameda",0,1,0,0,0,"0",0,0,0,0,1,76206,1
+"Delaware","Cities","New Castle",1,0,0,0,0,"0",0,0,0,1,0,5388,1
+"Ohio","Cities","Norwalk",0,0,1,0,1,"0",0,1,1,0,0,16906,2
+"New_Jersey","Cities","Lower Township",1,0,0,0,0,"0",0,0,0,1,0,22467,1
+"California","Cities","Livermore",0,0,0,1,0,"0",0,0,0,1,0,84350,1
+"Texas","Cities","Springtown",0,0,1,0,0,"0",0,0,0,1,0,2698,1
+"Kentucky","Cities","Elizabethtown",2,0,0,0,0,"0",0,0,0,0,2,29470,2
+"Michigan","Cities","Chesterfield Township",0,0,0,1,0,"0",0,0,0,1,0,43784,1
+"Washington","Cities","Seattle",50,14,14,6,3,"2",0,19,23,29,18,642814,89
+"Minnesota","Cities","Maple Grove",0,0,1,0,0,"0",0,NA,1,0,0,65318,1
+"Michigan","Cities","Sumpter Township",1,0,1,0,0,"0",0,0,0,0,2,9310,2
+"California","Cities","El Cajon",1,0,0,1,0,"0",0,0,1,0,1,102012,2
+"California","Cities","Monterey",1,0,1,0,0,"0",0,0,0,1,1,29338,2
+"Kansas","Cities","Parsons",2,0,0,0,0,"0",0,0,2,0,0,10278,2
+"Montana","Cities","Missoula",1,0,1,0,0,"0",0,1,0,1,0,68877,2
+"Arizona","Cities","Apache Junction",1,0,0,0,0,"0",0,1,0,0,NA,36626,1
+"New_Jersey","Cities","Passaic",2,2,0,1,0,"0",0,0,1,2,2,70445,5
+"Michigan","Cities","Royal Oak",1,0,0,0,0,"0",0,0,0,1,0,58804,1
+"California","Cities","Berkeley",7,1,4,1,0,"0",0,6,2,4,1,116217,13
+"California","Cities","South Lake Tahoe",0,0,0,1,0,"0",0,0,0,1,0,21243,1
+"Wisconsin","Cities","Appleton",0,0,2,0,0,"0",0,0,2,0,0,73141,2
+"Utah","Cities","Murray",1,0,0,0,0,"0",0,0,0,1,0,48767,1
+"Connecticut","Cities","Suffield",1,0,0,0,0,"0",0,0,0,1,0,15908,1
+"New_Jersey","Cities","Somerville",0,1,0,0,0,"0",0,0,0,1,0,12174,1
+"California","Cities","Simi Valley",1,1,0,1,0,"0",0,1,0,2,0,126215,3
+"California","Cities","Sonora",1,0,0,0,0,"0",0,0,0,1,0,4774,1
+"Kentucky","Cities","Frankfort",1,0,1,1,0,"0",0,1,1,0,1,27680,3
+"California","Cities","Lemoore",1,0,0,0,0,"0",0,1,0,0,0,24802,1
+"New_Jersey","Cities","Galloway Township",0,0,1,0,0,"0",0,0,1,0,0,37304,1
+"California","Cities","Chino",2,2,2,3,0,"0",0,2,2,3,2,80704,9
+"Pennsylvania","Cities","Lewistown",0,1,0,0,0,"0",0,0,1,0,0,8370,1
+"New_York","Cities","Brighton Town",1,0,0,0,0,"0",0,1,0,0,0,36689,1
+"New_York","Cities","New York",44,152,99,17,1,"0",1,56,84,81,93,8396126,314
+"Tennessee","Cities","Munford",0,0,0,1,0,"0",0,0,0,0,1,6036,1
+"Virginia","Cities","Chesapeake",4,2,0,0,0,"0",0,2,0,2,2,230577,6
+"Nebraska","Cities","Columbus",0,0,1,0,0,"0",0,0,0,1,0,22624,1
+"North_Carolina","Cities","Creedmoor",1,0,0,0,0,"0",0,0,0,1,0,4254,1
+"New_York","Cities","Mount Vernon",2,0,0,1,0,"0",0,1,1,0,1,68071,3
+"Michigan","Cities","Westland",1,0,0,1,0,"0",0,1,0,0,1,82554,2
+"Colorado","Cities","Greeley",0,0,1,0,0,"0",0,0,0,0,1,96111,1
+"Massachusetts","Cities","Springfield",1,0,2,1,0,"0",0,3,0,0,1,153586,4
+"Michigan","Cities","Mackinac Island",0,1,0,0,0,"0",0,0,0,1,0,494,1
+"Massachusetts","Cities","Pittsfield",0,0,1,0,0,"0",0,0,1,0,0,43992,1
+"Ohio","Cities","Upper Arlington",3,0,0,0,0,"0",0,0,0,1,2,34369,3
+"California","Cities","Redlands",0,2,1,0,0,"0",0,0,1,0,2,70282,3
+"Massachusetts","Universities and Colleges","Massachusetts College of Liberal Arts",0,0,1,0,0,"0",0,1,0,0,0,1799,1
+"California","Cities","Rohnert Park",0,0,0,3,0,"0",0,2,0,0,1,41326,3
+"New_Jersey","Cities","Allenhurst",0,2,0,0,0,"0",0,0,0,1,1,493,2
+"California","Cities","Dana Point",0,1,0,0,0,"0",0,0,1,0,0,34262,1
+"Ohio","Cities","Solon",1,0,0,0,0,"0",0,0,1,0,0,23105,1
+"Kentucky","Cities","Florence",1,0,0,0,2,"0",0,1,1,1,0,31434,3
+"North_Carolina","Cities","Fayetteville",4,1,0,1,0,"0",0,2,1,2,1,202524,6
+"California","Cities","Garden Grove",1,0,0,3,0,"0",0,0,1,2,1,175469,4
+"New_Jersey","Cities","West Long Branch",0,1,0,0,0,"0",0,0,0,1,0,8660,1
+"Ohio","Cities","Napoleon",1,0,0,0,0,"0",0,1,0,0,0,8663,1
+"Illinois","Cities","Normal",0,0,1,0,0,"0",0,0,0,0,1,54241,1
+"Florida","Cities","Port St. Lucie",1,0,0,0,0,"0",0,1,0,0,0,169877,1
+"California","Universities and Colleges","California State Polytechnic University: San Luis Obispo",0,0,1,0,0,"0",0,1,0,0,0,18679,1
+"Ohio","Cities","Vandalia",2,0,0,0,0,"0",0,0,1,1,0,15181,2
+"California","Cities","Redding",5,0,1,2,0,"0",0,2,2,3,1,91035,8
+"Michigan","Cities","Gerrish Township",1,0,0,0,0,"0",0,0,1,0,0,2942,1
+"Kentucky","Cities","Harrodsburg",1,0,0,0,0,"0",0,0,0,1,0,8301,1
+"Colorado","Cities","Dillon",0,0,0,1,0,"0",0,0,1,0,0,906,1
+"Michigan","Cities","Wyoming",1,1,0,0,0,"0",0,1,0,0,1,73786,2
+"New_York","Cities","Albany",1,2,0,0,0,"0",0,0,2,1,0,97956,3
+"Virginia","Cities","Harrisonburg",3,0,1,0,0,"0",0,1,2,0,1,51767,4
+"New_York","Cities","West Seneca Town",2,0,0,0,0,"0",0,0,1,1,0,44821,2
+"Massachusetts","Cities","Medford",5,3,0,1,1,"0",0,2,4,4,0,57428,10
+"New_Jersey","Cities","Highland Park",2,3,3,0,0,"0",0,1,4,2,1,14420,8
+"New_Mexico","Cities","Los Lunas",1,0,0,0,0,"0",0,0,NA,1,NA,15252,1
+"Kansas","Cities","Andover",0,1,1,0,0,"0",0,0,1,1,0,12188,2
+"California","Universities and Colleges","Marin Community College",0,1,1,0,0,"0",0,2,0,0,0,7058,2
+"California","Universities and Colleges","California State University: San Bernardino",3,0,0,0,0,"0",0,2,0,1,0,18234,3
+"New_Hampshire","Cities","Windham",1,0,0,0,0,"0",0,1,0,0,0,14092,1
+"Kentucky","Cities","Vine Grove",1,0,0,0,0,"0",0,1,0,0,0,5298,1
+"Michigan","Universities and Colleges","Western Michigan University",0,0,1,0,0,"0",0,0,0,1,0,24598,1
+"Ohio","Cities","Kettering",1,0,0,0,0,"0",0,0,1,0,0,55907,1
+"California","Cities","Sacramento",6,2,6,2,0,"0",0,2,5,6,3,478182,16
+"Arkansas","Cities","Bentonville",1,0,0,0,0,"0",0,0,0,1,0,39132,1
+"Washington","Cities","Kelso",4,0,0,0,0,"0",0,1,1,1,1,11802,4
+"Maine","Cities","Ellsworth",1,0,0,0,0,"0",0,0,1,0,0,7853,1
+"Connecticut","Cities","Stamford",1,2,2,2,1,"0",0,2,2,1,3,125876,8
+"Tennessee","Cities","Franklin",1,0,0,0,0,"0",0,0,0,1,0,67465,1
+"California","Cities","Davis",2,1,4,1,0,"0",0,3,4,0,1,66126,8
+"Massachusetts","Cities","Bolton",0,0,1,0,0,"0",0,0,0,1,0,5060,1
+"Massachusetts","Cities","Bedford",1,2,0,0,0,"0",0,1,0,0,2,13947,3
+"California","Cities","Redwood City",0,1,0,0,0,"0",0,1,0,0,0,79707,1
+"Colorado","Cities","Castle Rock",0,0,0,2,0,"0",0,0,0,0,2,52309,2
+"Massachusetts","Universities and Colleges","University of Massachusetts: Amherst",2,3,1,1,0,"0",0,3,0,2,2,28236,7
+"South_Carolina","Cities","Charleston",2,0,0,0,0,"0",0,2,0,0,0,127206,2
+"New_York","Cities","Batavia",1,0,0,0,0,"0",0,0,0,1,0,15374,1
+"South_Carolina","Cities","Lexington",1,0,0,0,0,"0",0,0,1,0,0,19547,1
+"Maine","Cities","South Portland",1,2,2,0,0,"0",0,1,2,2,0,25126,5
+"Minnesota","Cities","Wadena",0,0,1,0,0,"0",0,1,0,0,0,4092,1
+"New_Jersey","Cities","Cinnaminson Township",1,0,0,0,0,"0",0,0,0,0,1,16686,1
+"California","Cities","Victorville",6,0,1,0,0,"0",0,2,1,2,2,121699,7
+"Ohio","Cities","Jackson Township, Stark County",1,0,0,0,0,"0",0,0,1,0,0,40436,1
+"North_Carolina","Cities","Siler City",2,0,0,0,0,"0",0,1,0,1,0,8243,2
+"Idaho","Cities","Hailey",0,0,0,1,0,"0",0,0,0,1,0,7915,1
+"Michigan","Cities","Milford",0,1,0,0,0,"0",0,1,0,0,0,16170,1
+"New_Jersey","Cities","Paramus",0,0,0,1,0,"0",0,0,0,0,1,26628,1
+"New_York","Universities and Colleges","State University of New York College: Buffalo",0,0,1,0,0,"0",0,0,1,0,0,11781,1
+"Washington","Cities","Omak",0,0,1,1,1,"0",0,2,1,0,0,4801,3
+"New_Jersey","Cities","Totowa",1,1,1,0,0,"0",0,0,1,2,0,10985,3
+"California","Cities","Manhattan Beach",1,0,0,0,0,"0",0,0,0,0,1,35930,1
+"New_Jersey","Cities","Mahwah Township",0,1,0,0,0,"0",0,0,0,1,0,26292,1
+"New_Jersey","Cities","Piscataway Township",0,2,2,0,0,"0",0,3,1,0,0,58259,4
+"Kentucky","Cities","Henderson",2,0,0,0,0,"0",0,0,0,0,2,28952,2
+"California","Universities and Colleges","University of California: Riverside",2,0,0,0,0,"0",0,0,1,1,0,20947,2
+"Florida","Cities","North Miami Beach",0,0,1,0,0,"0",0,1,0,0,0,43417,1
+"Indiana","Cities","Indianapolis",29,0,6,8,0,"0",0,8,15,16,4,850220,43
+"New_York","Universities and Colleges","State University of New York College: Oswego",0,1,0,0,0,"0",0,1,0,0,0,7921,1
+"West_Virginia","Cities","Huntington",4,1,2,1,0,"0",0,1,2,5,0,49172,8
+"Michigan","Cities","Lake Orion",1,0,0,0,0,"0",0,0,0,0,1,3052,1
+"New_York","Universities and Colleges","State University of New York: Stony Brook",0,2,0,0,0,"0",0,0,1,1,0,23946,2
+"Colorado","Cities","Telluride",0,0,1,0,0,"0",0,0,0,1,0,2313,1
+"Michigan","Universities and Colleges","Saginaw Valley State University",1,0,0,0,0,"0",0,0,0,0,1,10552,1
+"California","Cities","Thousand Oaks",0,1,0,0,0,"0",0,0,0,0,1,128884,1
+"California","Cities","Buena Park3",0,0,1,1,0,"0",0,0,1,0,1,82632,2
+"California","Universities and Colleges","California State University: San Jose",2,0,1,1,0,"0",0,1,1,1,1,30448,4
+"Virginia","Cities","Woodstock",1,0,0,0,0,"0",0,0,1,0,0,5193,1
+"Utah","Cities","Provo",1,0,0,0,0,"0",0,0,0,0,1,116937,1
+"Nevada","Cities","Reno",2,1,1,0,0,NA,0,NA,1,3,NA,232561,4
+"Massachusetts","Universities and Colleges","Northeastern University",0,1,1,0,0,"1",0,0,0,0,3,27694,3
+"Tennessee","Universities and Colleges","Christian Brothers University",1,0,0,0,0,"0",0,0,0,0,1,1603,1
+"New_Jersey","Cities","Toms River Township",0,1,0,0,0,"0",0,0,0,1,0,92332,1
+"Ohio","Cities","Xenia",3,0,0,0,0,"0",0,1,0,1,1,26038,3
+"Arizona","Cities","Yuma",3,4,0,3,0,"0",0,3,5,0,2,96014,10
+"California","Cities","Vallejo",1,0,0,1,0,"0",0,0,2,0,0,118336,2
+"California","Cities","Los Alamitos",1,0,0,0,0,"0",0,1,0,0,0,11735,1
+"Michigan","Cities","Bloomfield Township",1,1,0,0,0,"0",0,0,1,1,0,41791,2
+"Texas","Cities","Harlingen",1,0,0,0,0,"0",0,0,0,1,0,65885,1
+"Missouri","Cities","Independence",1,0,1,0,0,"0",0,1,0,1,0,117381,2
+"California","Cities","Azusa",1,0,0,0,0,"0",0,0,0,1,0,47754,1
+"Florida","Cities","Miramar",0,0,1,0,0,"0",0,0,1,0,0,130926,1
+"Connecticut","Cities","Guilford",0,1,0,0,0,"0",0,NA,NA,1,NA,22409,1
+"California","Cities","Foster City",1,0,0,0,0,"0",0,1,0,0,0,32652,1
+"Michigan","Cities","Mount Pleasant",3,0,1,0,1,"0",0,1,2,2,0,26238,5
+"California","Cities","National City",2,0,1,0,0,"0",0,1,0,1,1,59637,3
+"Michigan","Cities","East Grand Rapids",1,0,0,0,0,"0",0,0,1,0,0,11100,1
+"Virginia","Cities","Manassas Park",0,1,0,0,0,"0",0,1,0,0,0,16332,1
+"Kansas","Cities","Pittsburg",1,0,0,0,0,"0",0,0,1,0,0,20395,1
+"New_Hampshire","Cities","Londonderry",0,1,0,0,0,"0",0,0,1,0,0,24338,1
+"Washington","Cities","Clarkston",1,0,0,0,0,"0",0,0,1,0,0,7295,1
+"New_Jersey","Cities","Lakewood Township",5,15,0,3,0,"0",0,2,6,7,8,92664,23
+"Connecticut","Cities","Canton",0,0,1,0,0,"0",0,0,0,1,0,10369,1
+"Michigan","Cities","Buena Vista Township",0,0,1,0,0,"0",0,0,0,1,0,8500,1
+"Washington","Cities","Mercer Island",0,1,0,0,0,"0",0,0,1,0,0,23969,1
+"California","Cities","Riverside",11,1,1,2,0,"0",1,7,4,0,5,316423,16
+"Maryland","Cities","Frederick",2,0,0,0,0,"0",0,0,0,1,1,66709,2
+"Colorado","Cities","Littleton",1,0,0,0,0,"0",0,1,0,0,0,44375,1
+"New_York","Universities and Colleges","State University of New York College: Fredonia",1,0,0,0,0,"0",0,0,1,0,0,5521,1
+"Michigan","Cities","Inkster",3,0,0,0,0,"0",0,2,0,0,1,24850,3
+"New_Jersey","Cities","Spotswood",0,2,0,0,0,"0",0,0,1,1,0,8459,2
+"California","Cities","Corona",0,0,0,1,0,"0",0,0,0,0,1,160159,1
+"New_Hampshire","Cities","Bedford",1,0,0,0,0,"0",0,0,1,0,0,21645,1
+"Ohio","Cities","Grove City",3,0,0,1,0,"0",0,1,2,1,0,37208,4
+"New_Hampshire","Cities","Hampton",1,0,0,0,0,"0",0,0,0,1,0,15067,1
+"Kentucky","Cities","Corbin",2,0,0,0,0,"0",0,0,0,1,1,7257,2
+"South_Carolina","Cities","Hardeeville",0,0,0,1,0,"0",0,0,1,0,0,4064,1
+"Utah","Cities","Brigham City",2,0,0,0,0,"0",0,1,0,1,0,18217,2
+"New_Jersey","Cities","Secaucus",0,2,2,0,0,"0",0,0,1,0,3,19119,4
+"New_Jersey","Cities","West Deptford Township",3,1,0,1,0,"0",0,3,1,1,0,21497,5
+"Montana","Cities","Billings",5,1,1,0,0,"0",0,1,2,1,3,107802,7
+"Tennessee","Cities","Shelbyville",0,0,1,0,0,"0",0,0,0,1,0,20669,1
+"Kansas","Cities","Gardner",0,1,0,0,0,"0",0,0,1,0,0,20708,1
+"Ohio","Cities","Trotwood",1,0,1,0,0,"0",0,0,2,0,0,24282,2
+"Utah","Cities","St. George",2,1,0,0,0,"0",0,2,1,0,0,76427,3
+"Michigan","Cities","Shelby Township",2,0,0,0,0,"0",0,0,0,1,1,75347,2
+"Michigan","Cities","Harper Woods",1,0,0,0,0,"0",0,0,1,0,0,13922,1
+"California","Cities","Bakersfield",2,1,0,0,0,"0",0,0,0,2,1,361859,3
+"Washington","Cities","Kent3",8,0,1,0,0,"0",0,0,5,2,2,124359,9
+"Massachusetts","Cities","Lunenburg",1,0,0,0,0,"0",0,0,0,0,1,11149,1
+"North_Carolina","Cities","Mint Hill",1,0,0,0,0,"0",0,0,1,0,0,24350,1
+"Virginia","Cities","Poquoson",1,0,0,0,0,"0",0,1,0,0,0,12108,1
+"New_York","Universities and Colleges","Ithaca College",0,0,0,1,0,"0",0,0,1,0,0,6759,1
+"California","Universities and Colleges","California State Polytechnic University: Pomona",0,0,0,1,0,"0",0,1,0,0,0,22156,1
+"Michigan","Cities","Woodhaven",1,0,0,0,0,"0",0,0,0,0,1,12652,1
+"California","Universities and Colleges","California State University: Dominguez Hills",1,0,1,0,0,"0",0,1,0,1,0,13933,2
+"New_Jersey","Cities","Jersey City",2,0,2,1,0,"0",0,0,3,0,2,256886,5
+"North_Dakota","Cities","West Fargo",6,1,0,1,0,"0",0,1,2,2,3,28018,8
+"Wisconsin","Cities","Burlington",1,0,0,0,0,"0",0,0,0,0,1,10502,1
+"California","Cities","Lomita",0,0,0,1,0,"0",0,0,1,0,0,20622,1
+"Florida","Cities","Melbourne",1,1,0,0,0,"0",0,1,0,0,1,77277,2
+"Maryland","Universities and Colleges","Towson University",1,0,0,0,0,"0",0,0,1,0,0,21960,1
+"North_Dakota","Cities","Bismarck",0,0,1,5,0,"0",0,3,0,2,1,65850,6
+"New_Jersey","Cities","Aberdeen Township",8,1,2,0,0,"0",0,1,6,1,3,18150,11
+"South_Carolina","Cities","Goose Creek",1,0,0,0,0,"0",0,0,0,1,0,39425,1
+"Missouri","Cities","Raytown",1,0,0,0,0,"0",0,0,0,0,1,29501,1
+"Ohio","Cities","East Palestine",1,0,0,0,0,"0",0,0,0,1,0,4631,1
+"New_Jersey","Cities","Hightstown",1,1,0,1,0,"0",0,0,1,1,1,5572,3
+"California","Cities","Rolling Hills Estates",1,0,0,0,0,"0",0,0,0,0,1,8229,1
+"Minnesota","Cities","St. Paul",24,4,2,0,0,"0",0,0,18,11,1,294690,30
+"Tennessee","Cities","Athens",1,0,0,0,0,"0",0,0,0,1,0,13504,1
+"Massachusetts","Cities","Stoughton",0,1,0,0,0,"0",0,0,1,0,0,28186,1
+"Florida","Cities","Pompano Beach",1,1,0,1,0,"0",0,0,0,0,3,103971,3
+"Washington","Cities","Ferndale",1,1,0,0,0,"0",0,1,1,0,0,12173,2
+"Delaware","Cities","Seaford",1,0,0,0,0,"0",0,0,0,1,0,7241,1
+"Massachusetts","Cities","Amesbury",0,1,0,0,0,"0",0,0,1,0,0,16655,1
+"Tennessee","Cities","Collegedale",1,0,0,0,0,"0",0,0,0,1,0,9468,1
+"Alabama","Cities","Hoover",0,0,1,0,0,"0",0,0,1,0,0,84139,1
+"New_Hampshire","Universities and Colleges","University of New Hampshire",1,0,1,0,0,NA,NA,1,0,1,0,15267,2
+"Tennessee","Universities and Colleges","Vanderbilt University",3,1,1,0,0,"0",0,1,1,0,3,12710,5
+"Washington","Cities","Milton",0,0,1,0,0,"0",0,0,1,0,0,7076,1
+"California","Cities","La Habra",0,1,0,0,0,"0",0,0,0,1,0,61740,1
+"New_Jersey","Cities","Medford Lakes",0,0,1,0,0,"0",0,0,1,0,0,4196,1
+"South_Carolina","Cities","Salley",1,0,0,0,0,"0",0,0,0,1,0,412,1
+"Ohio","Cities","Hudson",1,0,0,1,0,"0",0,1,0,1,0,22340,2
+"Kentucky","Cities","Hazard",1,0,0,0,0,"0",0,0,0,1,0,5455,1
+"New_Jersey","Cities","Woodbury Heights",1,0,0,0,0,"0",0,1,0,0,0,3026,1
+"Massachusetts","Cities","Fall River",1,0,0,0,0,"0",0,1,0,0,0,89220,1
+"Minnesota","Cities","Plymouth",3,2,2,0,0,"0",0,0,3,4,0,73684,7
+"Florida","Cities","North Port",0,0,1,0,0,"0",0,0,1,0,0,58699,1
+"California","Cities","Campbell",1,0,0,0,0,"0",0,0,1,0,0,40549,1
+"Tennessee","Cities","Murfreesboro",0,0,1,0,0,"0",0,0,0,0,1,115587,1
+"Utah","Cities","Heber",0,1,0,0,0,"0",0,0,1,0,NA,12544,1
+"California","Cities","Ventura",0,1,0,0,0,"0",0,1,0,0,0,108204,1
+"Kentucky","Cities","Carrollton",1,0,0,0,0,"0",0,0,0,0,1,3966,1
+"Michigan","Cities","Clare",1,0,0,0,0,"0",0,0,0,1,0,3095,1
+"South_Carolina","Cities","Chapin",1,0,0,0,0,"0",0,0,0,0,1,1506,1
+"Illinois","Cities","St. Charles",0,0,1,1,0,"0",0,1,1,0,0,33433,2
+"Colorado","Cities","Steamboat Springs",0,0,0,1,0,"0",0,0,0,1,0,12008,1
+"California","Cities","Compton",1,0,1,0,0,"0",0,0,1,0,1,97907,2
+"Ohio","Cities","Lorain",7,0,0,0,0,"0",0,0,5,1,1,63582,7
+"Wisconsin","Cities","Milwaukee",5,1,3,0,0,"0",0,1,3,4,1,600805,9
+"Massachusetts","Cities","Watertown",0,0,0,1,0,"0",0,0,1,0,0,33254,1
+"Tennessee","Cities","Tullahoma",1,0,0,0,0,"0",0,0,0,0,1,18773,1
+"New_Jersey","Cities","Brick Township",2,1,0,1,0,"0",0,1,2,1,0,75371,4
+"Missouri","Cities","Kansas City",30,7,14,5,1,"4",2,13,17,21,12,465514,63
+"New_Jersey","Cities","Watchung",0,1,0,0,0,"0",0,0,0,1,0,5844,1
+"New_Jersey","Cities","Jackson Township",2,1,0,0,0,"0",0,1,0,0,2,55817,3
+"New_Jersey","Cities","Mount Laurel Township",0,0,0,1,0,"0",0,0,0,0,1,41839,1
+"Michigan","Cities","Bath Township",1,0,0,0,0,"0",0,0,0,1,0,11761,1
+"Colorado","Cities","Lone Tree",0,0,1,0,0,"0",0,0,0,1,0,12056,1
+"South_Dakota","Cities","Mitchell",1,0,0,0,0,"0",0,0,0,1,0,15555,1
+"Kentucky","Cities","Shepherdsville",0,1,0,0,0,"0",0,0,0,1,0,11534,1
+"California","Cities","Eureka",1,0,1,0,0,"0",0,1,1,0,0,26881,2
+"Kansas","Cities","Lansing",2,0,0,0,0,"0",0,0,0,2,0,11688,2
+"Oregon","Cities","Bend",0,2,0,1,0,"0",0,2,0,1,0,79926,3
+"New_Jersey","Cities","Livingston Township",2,0,0,0,0,"0",0,0,0,2,0,29621,2
+"Ohio","Cities","Richwood",1,0,0,0,0,"0",0,0,1,0,0,2240,1
+"Washington","Cities","Federal Way",3,4,4,0,0,"0",0,1,3,3,4,92741,11
+"Minnesota","Cities","Bemidji",0,0,1,0,0,"0",0,0,1,0,0,13805,1
+"Connecticut","Cities","Milford",4,1,0,0,0,"0",0,NA,2,4,NA,53041,6
+"Michigan","Cities","Warren",7,1,0,0,0,"1",0,0,0,4,5,134167,9
+"Texas","Universities and Colleges","Amarillo College",1,0,0,0,0,"0",0,1,0,0,0,11530,1
+"Connecticut","Cities","Groton Town",1,0,0,0,1,"0",0,0,1,1,0,29946,2
+"Massachusetts","Cities","Boston",73,21,53,15,0,"0",3,39,56,40,30,643799,165
+"New_Jersey","Cities","East Brunswick Township",1,10,2,1,0,"0",0,3,4,3,4,48073,14
+"Texas","Cities","Pasadena",1,0,0,0,0,"0",0,1,0,0,0,153195,1
+"New_Hampshire","Cities","Hanover",0,0,1,0,0,"0",0,0,1,0,0,11195,1
+"New_York","Universities and Colleges","State University of New York: Binghamton",0,2,0,0,0,"0",1,0,0,3,1,15308,4
+"Florida","Cities","Jupiter",1,0,1,0,0,"0",0,1,1,0,0,57826,2
+"California","Cities","Salinas",0,0,1,1,0,"0",0,0,0,0,2,155742,2
+"Connecticut","Cities","Plymouth",0,1,1,0,0,"0",0,0,1,1,0,12043,2
+"Texas","Cities","Beaumont",3,0,0,0,0,"0",0,2,1,0,0,118177,3
+"Virginia","Universities and Colleges","George Mason University",0,3,0,0,0,"0",0,1,0,2,0,32961,3
+"Michigan","Cities","Taylor",1,0,2,0,0,"0",0,1,2,0,0,61836,3
+"Massachusetts","Cities","Lincoln",0,0,1,0,0,"0",0,0,0,0,1,6563,1
+"Texas","Cities","Austin",0,0,1,3,0,"0",0,2,1,1,0,859180,4
+"Oklahoma","Cities","Elk City",1,0,0,0,0,"0",0,1,0,0,0,12463,1
+"Missouri","Cities","Joplin",2,0,0,0,0,"0",0,2,0,0,0,49272,2
+"Illinois","Cities","Berwyn",1,0,0,0,0,"0",0,0,1,0,0,56838,1
+"Michigan","Cities","Blackman Township",3,0,0,0,0,"0",0,0,1,0,2,38115,3
+"New_York","Cities","Sleepy Hollow Village",0,2,0,0,0,"0",0,0,1,1,0,9996,2
+"California","Universities and Colleges","California State University: Stanislaus",0,0,1,0,0,"0",0,0,0,0,1,8882,1
+"Ohio","Cities","Troy",1,0,0,0,0,"0",0,0,1,0,0,25424,1
+"Oklahoma","Cities","Cleveland",0,0,0,1,0,"0",0,0,1,0,0,3224,1
+"Oregon","Cities","Newberg-Dundee",0,0,0,1,0,"0",0,0,0,1,0,25647,1
+"Texas","Cities","Houston",4,0,5,4,0,"0",0,4,5,1,3,2180606,13
+"Massachusetts","Cities","Marlborough",0,0,0,1,0,"0",0,0,0,1,0,39531,1
+"Ohio","Cities","Riverside",2,0,0,0,0,"0",0,0,0,1,1,25115,2
+"California","Cities","Lake Elsinore",0,2,0,0,0,"0",0,0,0,2,0,56232,2
+"Washington","Cities","Maple Valley",0,0,1,0,0,"0",0,0,0,1,0,24644,1
+"California","Cities","Fullerton",0,1,1,0,0,"0",0,1,0,0,1,139676,2
+"Maine","Cities","Portland",1,1,0,0,0,"0",0,0,1,1,0,66256,2
+"Vermont","Cities","Bennington",1,0,0,0,0,"0",0,0,0,0,1,15492,1
+"Michigan","Cities","Highland Park",0,1,0,0,0,"0",0,0,0,0,1,11591,1
+"Tennessee","Cities","Jonesborough",0,0,0,4,1,"0",0,0,0,2,3,5163,5
+"Maine","Cities","Belfast",0,0,1,0,0,"0",0,1,0,0,0,6654,1
+"Colorado","Cities","Glenwood Springs",0,0,1,0,0,"0",0,0,0,1,0,9715,1
+"California","Cities","Holtville",0,1,0,0,0,"0",0,0,0,0,1,6022,1
+"North_Carolina","Cities","Greenville",1,0,0,0,0,"0",0,0,1,0,0,88018,1
+"West_Virginia","Cities","Morgantown",0,0,0,1,0,"0",0,0,0,1,0,31406,1
+"Pennsylvania","Cities","Reading",0,0,3,0,0,"0",0,1,1,1,0,88107,3
+"Washington","Cities","Granite Falls",1,0,0,0,0,"0",0,1,0,0,NA,3435,1
+"Connecticut","Universities and Colleges","Central Connecticut State University",0,0,1,0,0,"0",0,0,0,0,1,12091,1
+"Massachusetts","Cities","Swampscott",1,0,0,0,0,"0",0,1,0,0,0,13995,1
+"California","Cities","Newark",2,0,0,1,0,"0",0,1,1,0,1,43950,3
+"Ohio","Cities","Bath Township, Summit County",0,0,1,0,0,"0",0,0,0,1,0,9724,1
+"Maine","Cities","Auburn",2,0,0,0,0,"0",0,0,0,2,0,22948,2
+"Colorado","Cities","Grand Junction",4,0,1,0,0,"0",0,1,1,2,1,60167,5
+"Virginia","Cities","Danville",0,0,1,0,0,"0",0,1,0,0,0,43133,1
+"Tennessee","Cities","Elizabethton",0,0,1,0,0,"0",0,0,0,1,0,14220,1
+"Tennessee","Cities","Graysville",2,0,0,0,0,"0",0,0,1,1,0,1512,2
+"Texas","Cities","Vidor",1,0,0,0,0,"0",0,0,0,1,0,10984,1
+"Ohio","Cities","Zanesville",1,1,2,0,0,"0",0,1,2,0,1,25378,4
+"Utah","Cities","Farmington",2,0,1,0,0,"0",0,0,3,0,0,21582,3
+"California","Cities","Gridley",0,0,0,1,0,"0",0,1,0,0,0,6563,1
+"California","Cities","Glendora",1,0,0,0,0,"0",0,1,0,0,0,50893,1
+"California","Cities","Carson",1,0,0,0,0,"0",0,0,0,0,1,93415,1
+"Ohio","Cities","Girard",1,0,0,0,0,"0",0,0,0,1,0,9771,1
+"Massachusetts","Cities","Greenfield",0,0,1,0,0,"0",0,0,1,0,0,17598,1
+"West_Virginia","Cities","Buckhannon",1,0,0,0,0,"0",0,1,0,0,0,5649,1
+"Colorado","Cities","Loveland",1,0,0,0,0,"0",0,0,1,0,0,71325,1
+"Michigan","Cities","Jackson",1,0,0,0,0,"0",0,0,0,1,0,33378,1
+"Colorado","Cities","Snowmass Village",1,0,0,0,0,"0",0,1,0,0,0,2851,1
+"Oklahoma","Cities","Norman",3,1,0,0,0,"0",0,2,0,1,1,116970,4
+"Washington","Cities","Vancouver",5,0,3,0,0,"0",0,2,5,0,1,166535,8
+"Wisconsin","Cities","Janesville",2,0,0,0,0,"0",0,0,1,1,0,63603,2
+"California","Cities","Temecula",1,0,0,0,0,"0",0,0,0,1,0,106680,1
+"Vermont","Cities","Burlington",2,0,1,0,0,"0",0,0,1,1,1,42235,3
+"South_Carolina","Cities","Columbia",1,0,1,0,0,"0",0,0,1,1,0,132240,2
+"California","Universities and Colleges","University of California: Santa Cruz",0,0,1,0,0,"0",0,1,0,0,0,17404,1
+"Vermont","Cities","St. Albans",1,0,0,0,0,"0",0,0,1,0,0,6888,1
+"California","Cities","Camarillo",2,1,0,0,0,"0",0,1,1,1,0,66173,3
+"Ohio","Cities","Boardman",1,0,0,0,0,"0",0,0,1,0,0,40277,1
+"Montana","Cities","Hamilton",0,1,0,0,0,"0",0,0,0,0,1,4555,1
+"Maine","Cities","Old Orchard Beach",1,0,0,0,0,"0",0,0,1,0,0,8681,1
+"South_Carolina","Cities","Anderson",1,0,0,0,0,"0",0,0,0,0,1,26812,1
+"Texas","Cities","San Angelo",1,0,0,0,0,"0",0,1,0,0,0,96661,1
+"North_Carolina","Cities","Gastonia",0,1,0,0,0,"0",0,0,1,0,0,73049,1
+"Vermont","Cities","South Burlington",0,1,0,0,0,"0",0,0,0,0,1,18549,1
+"New_York","Universities and Colleges","State University of New York College: New Paltz",2,0,0,0,0,"0",0,0,0,0,2,7655,2
+"North_Dakota","Cities","Williston",1,0,0,0,0,"0",0,0,0,0,1,19949,1
+"Tennessee","Cities","Johnson City",2,0,0,0,0,"0",0,1,1,0,0,64928,2
+"Tennessee","Cities","Paris",0,0,1,0,0,"0",0,0,0,0,1,10168,1
+"California","Cities","Covina",0,2,1,0,0,"0",0,0,3,0,0,48524,3
+"Pennsylvania","Cities","Lancaster",1,0,0,0,0,"0",0,0,1,0,0,59370,1
+"Florida","Cities","Lake Alfred",0,0,0,1,0,"0",0,0,1,0,0,5148,1
+"Tennessee","Cities","Mason",1,0,0,0,0,"0",0,0,1,0,0,1611,1
+"Florida","Cities","Pembroke Pines",0,0,0,1,0,"0",0,0,0,1,0,162064,1
+"Nebraska","Cities","Grand Island",0,0,0,2,0,"0",0,0,0,2,0,50441,2
+"Colorado","Cities","Glendale",0,1,0,0,0,"0",0,1,0,0,0,4502,1
+"Illinois","Cities","Crystal Lake",0,1,0,0,0,"0",0,0,0,1,0,40383,1
+"Massachusetts","Cities","Lowell",0,0,1,1,0,"0",0,0,0,1,1,109449,2
+"California","Cities","Auburn",1,0,0,0,0,"0",0,0,1,0,0,13779,1
+"Massachusetts","Cities","Malden",1,2,0,0,0,"0",0,0,2,1,0,60816,3
+"New_York","Cities","New Rochelle",1,2,0,0,0,"0",0,1,1,1,0,78800,3
+"Illinois","Cities","Mokena",1,0,0,0,0,"0",0,0,1,0,0,19130,1
+"Texas","Cities","Whitehouse",1,0,0,0,0,"0",0,1,NA,0,0,7919,1
+"New_Jersey","Cities","East Orange",0,1,0,0,0,"0",0,0,0,0,1,64425,1
+"Texas","Universities and Colleges","Southern Methodist University",2,1,0,0,0,"0",0,1,1,1,0,10893,3
+"New_York","Cities","Yonkers",1,3,1,0,0,"1",1,2,0,3,2,199134,7
+"California","Cities","Stanton",0,0,1,0,0,"0",0,0,1,0,0,39128,1
+"Michigan","Cities","Buchanan",1,0,0,0,0,"0",0,0,1,0,0,4419,1
+"Kentucky","Cities","Murray",1,0,1,0,0,"0",0,0,1,1,0,18048,2
+"North_Dakota","Cities","Minot",1,0,0,0,0,"0",0,0,0,1,0,44635,1
+"California","Cities","Daly City",0,2,1,0,0,"0",0,1,0,1,1,104536,3
+"Rhode_Island","Cities","Newport",1,0,0,0,0,"0",0,0,0,1,0,23874,1
+"Michigan","Cities","White Lake Township",0,1,0,0,0,"0",0,0,0,0,1,30585,1
+"Michigan","Cities","Northville Township",1,0,0,0,0,"0",0,1,0,0,0,28734,1
+"Colorado","Cities","Westminster",0,0,1,0,0,"0",0,1,0,0,0,110093,1
+"Minnesota","Cities","Mankato",2,2,2,0,0,"0",0,0,2,2,2,40360,6
+"Idaho","Cities","Caldwell",1,0,0,0,0,"0",0,1,0,0,0,48069,1
+"Kentucky","Cities","Shelbyville",4,0,0,0,0,"0",0,0,1,2,1,14743,4
+"New_Jersey","Cities","Manchester Township",3,0,0,0,0,"0",0,0,3,0,0,43013,3
+"Texas","Cities","Longview",1,0,0,0,0,"0",0,0,0,1,0,81273,1
+"Virginia","Cities","Radford",0,0,1,0,0,"0",0,0,1,0,0,16810,1
+"New_Hampshire","Cities","Ashland",1,0,0,0,0,"0",0,0,1,0,0,2056,1
+"Illinois","Cities","Pekin",2,0,0,0,0,"0",0,1,1,0,0,34085,2
+"New_Jersey","Cities","Hillsborough Township",1,0,0,0,0,"0",0,0,1,0,0,39037,1
+"Alaska","Cities","Anchorage",8,0,0,0,0,"0",0,2,3,3,0,299455,8
+"Kentucky","Cities","Russellville",1,0,1,0,0,"0",0,0,1,1,0,6949,2
+"Texas","Cities","Gainesville",1,0,0,0,0,"0",0,0,0,1,0,16089,1
+"Michigan","Cities","Ferndale",0,0,1,0,0,"0",0,0,0,1,0,20104,1
+"Kansas","Cities","Dodge City",1,0,0,0,0,"0",0,0,0,1,0,28265,1
+"North_Carolina","Cities","Morganton",1,0,0,0,0,"0",0,0,1,0,0,16852,1
+"Michigan","Cities","Muskegon Heights",6,0,0,0,0,"0",0,0,3,3,0,10768,6
+"Michigan","Cities","Forsyth Township",1,0,0,0,0,"0",0,0,1,0,0,6278,1
+"Utah","Cities","Moab",0,0,0,1,0,"0",0,0,1,0,0,5096,1
+"Illinois","Universities and Colleges","University of Illinois, Springfield",1,0,0,0,0,"0",0,0,1,0,0,5048,1
+"Connecticut","Cities","Newington",1,2,0,0,0,"0",0,NA,NA,1,2,30612,3
+"New_Jersey","Cities","Holmdel Township",2,3,0,0,0,"0",0,2,2,0,1,16657,5
+"Kentucky","Cities","Radcliff",2,0,0,0,0,"0",0,0,1,0,1,23177,2
+"New_York","Cities","Jamestown",2,0,0,0,0,"0",0,1,0,0,1,30658,2
+"Tennessee","Cities","Bristol",1,0,2,1,0,"0",0,0,0,0,5,26660,5
+"New_Jersey","Cities","East Windsor Township",0,1,0,0,0,"0",0,0,0,1,0,27564,1
+"New_Jersey","Cities","Fanwood",0,1,0,0,0,"0",0,0,0,1,0,7447,1
+"Michigan","Cities","Meridian Township",4,0,0,0,0,"0",0,0,1,2,1,40609,4
+"Kentucky","Universities and Colleges","University of Louisville",0,0,1,0,0,"0",0,0,0,1,0,21239,1
+"Delaware","Cities","Smyrna",1,0,0,0,0,"0",0,1,0,0,0,10900,1
+"Arizona","Cities","El Mirage",1,0,0,0,0,"0",0,0,0,1,0,32837,1
+"New_York","Cities","Hamburg Town",1,0,0,0,0,"0",0,1,0,0,0,45535,1
+"Michigan","Cities","Livonia",0,0,1,0,0,"0",0,0,0,0,1,95220,1
+"Texas","Cities","McKinney",1,0,1,2,0,"0",0,0,1,1,2,146869,4
+"California","Cities","Pacifica",0,1,0,0,0,"0",0,0,0,1,0,38494,1
+"Michigan","Cities","Monroe",2,0,0,0,0,"0",0,0,1,1,0,20474,2
+"Arizona","Cities","Tempe",1,0,2,0,0,"0",0,2,0,1,0,168501,3
+"New_Jersey","Cities","Irvington",0,0,1,0,0,"0",0,0,0,1,0,54246,1
+"West_Virginia","Cities","Moundsville",1,0,0,0,0,"0",0,0,0,0,1,9130,1
+"New_York","Cities","Poughkeepsie Town",2,1,1,0,0,"0",0,0,2,1,2,43866,5
+"Rhode_Island","Universities and Colleges","University of Rhode Island",1,0,0,0,0,"0",0,0,0,1,0,16451,1
+"Illinois","Cities","Rockford",2,1,1,0,0,"0",0,0,2,2,0,150209,4
+"Massachusetts","Cities","Reading",1,0,0,0,0,"0",0,0,0,1,0,25398,1
+"Virginia","Cities","Bedford",1,0,1,0,0,"0",0,0,0,0,2,5894,2
+"New_York","Cities","Salamanca",1,0,0,0,0,"0",0,0,0,1,0,5691,1
+"New_Jersey","Cities","Fairview",0,0,0,1,0,"0",0,0,0,1,0,14358,1
+"Utah","Cities","North Salt Lake",0,0,0,0,1,"0",0,1,0,0,0,16815,1
+"Vermont","Cities","Colchester",1,0,0,0,0,"0",0,0,1,0,0,17288,1
+"Pennsylvania","Cities","Richland Township, Cambria County",1,0,0,0,0,"0",0,0,1,0,0,12581,1
+"Kansas","Cities","Louisburg",0,0,1,0,0,"0",0,1,0,0,0,4268,1
+"Kentucky","Cities","Flatwoods",1,0,0,0,0,"0",0,0,0,1,0,7412,1
+"Arkansas","Cities","Gurdon",1,0,0,0,0,"0",0,1,0,0,0,2184,1
+"New_York","Cities","Clarkstown Town",1,2,0,0,0,"0",0,2,1,0,0,80705,3
+"Ohio","Cities","Portsmouth",0,0,2,0,0,"0",0,1,1,0,0,20322,2
+"North_Dakota","Cities","Devils Lake",0,0,1,0,0,"0",0,0,0,0,1,7260,1
+"California","Cities","Atascadero",1,0,0,1,0,"0",0,0,0,1,1,28938,2
+"Missouri","Cities","Grandview",1,0,0,0,0,"0",0,0,0,1,NA,24630,1
+"North_Carolina","Cities","Lilesville",1,0,0,0,0,"0",0,0,0,1,0,519,1
+"Tennessee","Cities","Chattanooga",2,1,0,0,0,"0",0,0,0,2,1,172286,3
+"Michigan","Cities","Trenton",1,0,0,0,0,"0",0,0,1,0,0,18483,1
+"Georgia","Universities and Colleges","Kennesaw State University",0,0,2,0,0,"0",0,1,0,0,1,24604,2
+"Washington","Cities","Shoreline",2,0,0,0,0,"0",0,0,0,0,2,54762,2
+"Kentucky","Cities","Hillview",0,0,1,0,0,"0",0,0,0,1,0,9465,1
+"New_Jersey","Cities","Montgomery Township",1,3,0,0,0,"0",0,1,1,0,2,22467,4
+"Ohio","Cities","Reynoldsburg",0,1,0,0,0,"0",0,0,1,0,0,36472,1
+"Iowa","Cities","Altoona",0,0,1,0,0,"0",0,0,0,1,0,15683,1
+"New_Jersey","Cities","Freehold Township",0,1,0,0,0,"0",0,1,0,0,0,36048,1
+"Michigan","Cities","Farmington",1,0,0,0,0,"0",0,1,0,0,0,10514,1
+"Michigan","Cities","Muskegon",3,0,0,0,0,"0",0,2,0,0,1,36658,3
+"Pennsylvania","Universities and Colleges","Pennsylvania State University: University Park",4,3,1,0,0,"0",0,3,1,2,2,45783,8
+"Illinois","Cities","La Grange",0,1,0,0,0,"0",0,0,1,0,0,15718,1
+"Minnesota","Cities","St. Louis Park",3,4,0,0,0,"0",0,1,4,1,1,46723,7
+"New_Jersey","Cities","Harrison",0,0,1,0,0,"0",0,0,0,0,1,13975,1
+"New_Jersey","Cities","Pine Hill",1,0,0,0,0,"0",0,0,0,0,1,10704,1
+"Massachusetts","Cities","Dracut",4,1,0,0,0,"0",0,0,1,2,2,30533,5
+"Missouri","Cities","University City",1,0,0,0,0,"0",0,0,0,1,0,35186,1
+"California","Cities","Encinitas",2,1,0,1,0,"0",0,2,1,1,0,61433,4
+"Kentucky","Cities","Cadiz",0,0,2,0,0,"0",0,0,1,1,0,2624,2
+"Arizona","Cities","Scottsdale",0,1,0,1,0,"0",0,0,0,0,2,225523,2
+"Tennessee","Cities","Jackson",0,2,2,0,0,"0",0,2,0,1,1,67371,4
+"Maine","Cities","Lewiston",0,0,1,0,0,"0",0,0,0,0,1,36422,1
+"Ohio","Cities","Lancaster",1,0,0,0,0,"0",0,0,0,0,1,38902,1
+"New_Jersey","Cities","Pennsauken Township",0,1,0,0,0,"0",0,0,0,0,1,35788,1
+"Texas","Cities","Denton",1,0,0,0,0,"0",0,0,1,0,0,123260,1
+"North_Carolina","Cities","King",0,1,0,0,0,"0",0,0,1,0,0,6860,1
+"Minnesota","Cities","Roseville",2,0,1,0,0,"0",0,0,2,1,0,34991,3
+"Arkansas","Universities and Colleges","University of Arkansas, Pine Bluff",0,0,1,0,0,"0",0,0,0,1,0,2828,1
+"Massachusetts","Cities","Milton",1,2,0,0,0,"0",0,0,0,0,3,27269,3
+"California","Cities","Adelanto",1,0,0,1,0,"0",0,1,0,1,0,31165,2
+"Massachusetts","Cities","Acton",3,0,0,0,0,"0",0,0,2,0,1,22871,3
+"Washington","Cities","Napavine",1,0,0,0,0,"0",0,0,0,0,1,1766,1
+"Arkansas","Cities","Fort Smith",1,0,1,0,0,"0",0,0,0,0,2,87821,2
+"Connecticut","Cities","Windsor Locks",0,0,0,0,1,"0",0,0,1,0,0,12560,1
+"Washington","Cities","Pasco",0,0,0,0,1,"0",0,0,0,1,0,67099,1
+"Connecticut","Cities","Meriden",2,0,1,0,0,"0",0,1,1,NA,1,60558,3
+"Michigan","Cities","West Bloomfield Township",5,1,1,2,0,"0",0,5,2,2,0,65840,9
+"New_Jersey","Cities","Delran Township",2,0,0,0,0,"0",0,0,1,0,1,16862,2
+"Connecticut","Cities","Bethel",1,0,0,0,0,"0",0,1,0,0,0,19338,1
+"Illinois","Cities","Dixon",0,0,1,0,0,"0",0,0,0,0,1,15304,1
+"Massachusetts","Cities","Danvers",0,1,0,0,0,"0",0,1,0,0,0,27263,1
+"New_Jersey","Cities","Washington Township, Gloucester County",2,0,0,0,0,"0",0,0,1,1,0,48110,2
+"Minnesota","Cities","St. Cloud",6,0,0,2,0,"0",0,0,3,3,2,65977,8
+"New_Jersey","Cities","Glassboro",8,0,2,2,0,"0",0,3,2,3,4,19038,12
+"South_Dakota","Cities","Sioux Falls",3,1,0,0,0,"0",0,1,0,2,1,161754,4
+"Michigan","Cities","Ann Arbor",1,1,1,0,0,"0",0,0,3,0,0,116799,3
+"California","Cities","Los Gatos",2,0,0,0,0,"0",0,0,0,1,1,30351,2
+"New_York","Universities and Colleges","State University of New York College: Purchase",0,1,0,0,0,"0",0,0,1,0,0,4240,1
+"California","Cities","Palo Alto",0,0,0,1,0,"0",0,1,0,0,0,66964,1
+"California","Cities","Cupertino",0,0,0,0,0,"0",1,0,0,0,1,60440,1
+"Nevada","Cities","Las Vegas Metropolitan Police Department",27,9,23,6,0,"0",0,16,13,18,18,1500455,65
+"New_York","Cities","Crawford Town",3,4,0,0,0,"0",0,0,1,0,6,9264,7
+"Virginia","Universities and Colleges","Christopher Newport University",1,0,0,0,0,"0",0,0,0,1,0,5186,1
+"Connecticut","Cities","Torrington",5,0,0,0,0,"0",0,1,3,1,0,35634,5
+"New_York","Universities and Colleges","Cornell University",1,0,1,0,0,"0",0,0,1,1,NA,21424,2
+"Ohio","Cities","Fairborn",2,0,0,0,0,"0",0,1,0,1,0,32820,2
+"California","Cities","Hanford",1,0,1,0,0,"0",0,1,0,1,0,54425,2
+"Arkansas","Cities","Cabot",1,0,0,0,0,"0",0,0,0,1,0,24695,1
+"Michigan","Cities","Flint Township",2,0,0,0,0,"0",0,0,1,1,0,31182,2
+"California","Cities","San Mateo",0,0,1,0,0,"0",0,0,0,1,0,100440,1
+"Connecticut","Cities","North Branford",1,0,0,1,0,"0",0,2,0,0,0,14369,2
+"Tennessee","Cities","Millersville",2,0,1,0,0,"0",0,0,0,3,0,6596,3
+"West_Virginia","Cities","Charleston",3,3,1,0,0,"0",0,1,0,2,4,50919,7
+"Massachusetts","Cities","Plymouth",9,1,0,0,0,"0",0,0,0,6,4,57893,10
+"Florida","Cities","Sanford",0,0,1,0,0,"0",0,0,0,1,0,54972,1
+"New_Jersey","Cities","Weehawken Township",1,0,1,0,0,"0",0,0,1,1,0,12937,2
+"Washington","Cities","Port Townsend",1,1,1,0,0,"0",0,1,0,1,1,9112,3
+"Kentucky","Cities","Burkesville",1,0,0,0,0,"0",0,0,0,1,0,1526,1
+"New_Jersey","Cities","Plainsboro Township",0,0,0,0,1,"0",0,0,1,0,0,23256,1
+"Illinois","Cities","Carol Stream",0,1,0,0,0,"0",0,1,0,0,0,40376,1
+"Washington","Cities","Hoquiam",1,0,0,0,0,"0",0,1,0,0,0,8472,1
+"Texas","Cities","Mercedes",1,0,0,0,0,"0",0,0,0,1,0,16480,1
+"New_York","Cities","Rockville Centre Village",0,1,0,0,0,"0",0,0,1,0,0,24129,1
+"Minnesota","Cities","Shakopee",0,0,1,0,0,"0",0,1,0,0,0,39214,1
+"New_York","Cities","Cohoes",1,0,0,0,0,"0",0,0,1,0,0,16179,1
+"Washington","Cities","Covington",0,1,0,0,0,"0",0,0,1,0,0,18526,1
+"Tennessee","Cities","Burns",1,0,0,0,0,"0",0,0,0,1,0,1469,1
+"New_York","Universities and Colleges","State University of New York Agricultural and Technical College: Cobleskill",0,0,1,0,0,"0",0,0,0,0,1,2492,1
+"California","Cities","Westlake Village",0,2,0,0,0,"0",0,2,0,0,0,8440,2
+"California","Cities","Healdsburg",1,0,0,0,0,"0",0,1,0,0,0,11483,1
+"Indiana","Universities and Colleges","Purdue University",2,0,1,0,0,"0",0,1,1,1,NA,40393,3
+"New_Jersey","Cities","Old Bridge Township",1,0,1,0,0,"0",0,1,0,1,0,66528,2
+"North_Dakota","Cities","Dickinson",0,1,0,0,0,"0",0,0,0,1,0,20347,1
+"California","Cities","Rancho Cordova",1,0,0,0,0,"0",0,1,0,0,0,67634,1
+"California","Cities","Pinole",0,0,0,1,0,"0",0,0,0,1,0,18848,1
+"Oklahoma","Cities","Blanchard",1,0,0,0,0,"0",0,1,0,0,0,8016,1
+"Connecticut","Cities","Middletown",5,0,1,1,0,"0",0,0,3,1,3,47221,7
+"Kansas","Cities","Mulvane",1,0,0,0,0,"0",0,0,0,1,0,6307,1
+"Virginia","Cities","Virginia Beach",3,2,0,0,0,"0",0,1,1,1,2,450687,5
+"Kentucky","Cities","Bellevue",0,0,1,0,0,"0",0,1,0,0,0,5918,1
+"Ohio","Cities","Butler Township",0,0,0,0,1,"0",0,1,0,0,0,7864,1
+"Ohio","Cities","Alliance",0,0,0,1,0,"0",0,0,NA,1,NA,22144,1
+"Massachusetts","Cities","Needham",2,0,0,0,0,"0",0,0,0,1,1,29544,2
+"Illinois","Cities","Skokie",2,0,0,1,0,"0",0,0,2,0,1,65155,3
+"Ohio","Cities","Urbana",1,1,0,0,0,"0",0,2,0,0,0,11599,2
+"New_Hampshire","Cities","Newbury",0,0,1,0,0,"0",0,1,0,0,0,2110,1
+"Michigan","Cities","Sparta",0,2,0,0,0,"0",0,0,1,1,0,4224,2
+"Oregon","Cities","Springfield",2,0,0,1,0,"0",0,0,1,1,1,60024,3
+"Massachusetts","Universities and Colleges","Dean College",0,1,0,0,0,"0",0,0,0,0,1,1322,1
+"New_Jersey","Cities","Moorestown Township",1,0,0,0,0,"0",0,0,0,1,0,20706,1
+"New_Jersey","Cities","Evesham Township",7,1,0,0,0,"0",0,4,3,1,0,45798,8
+"California","Cities","San Diego",18,12,12,1,0,"0",0,7,10,17,9,1349306,43
+"New_Jersey","Cities","Vineland",0,1,1,0,0,"0",0,0,1,0,1,60863,2
+"Utah","Cities","Salt Lake City",3,1,1,0,0,"0",0,0,3,0,2,190246,5
+"Kansas","Cities","Lenexa",1,0,0,0,0,"0",0,0,1,0,0,49777,1
+"Michigan","Cities","Grandville",1,0,1,1,1,"0",0,2,0,2,0,15669,4
+"Massachusetts","Cities","Cambridge",4,3,3,3,0,"0",0,6,2,3,2,107282,13
+"Michigan","Cities","Owosso",1,0,0,0,0,"0",0,1,0,0,0,14745,1
+"Washington","Universities and Colleges","Washington State University, Pullman",0,0,1,0,0,"0",0,0,0,0,1,27679,1
+"California","Cities","Brentwood3",4,0,0,0,0,"0",0,0,1,2,1,54301,4
+"New_Jersey","Cities","Keansburg",3,0,1,0,0,"0",0,1,0,2,1,9981,4
+"California","Universities and Colleges","University of California: Berkeley",3,2,1,1,0,"0",0,1,1,4,1,35893,7
+"Michigan","Cities","Pittsfield Township",1,0,2,0,0,"0",0,1,2,0,0,36091,3
+"California","Universities and Colleges","California State University: Long Beach",1,0,0,0,0,"0",0,0,1,0,0,36279,1
+"California","Cities","Orange",1,1,1,0,0,"0",0,0,1,2,0,140304,3
+"Washington","Cities","Cheney",3,0,0,0,0,"0",0,1,1,0,1,11117,3
+"Utah","Cities","Tooele",0,1,0,0,0,"0",0,1,0,0,0,32241,1
+"Delaware","Cities","Milton",1,0,0,0,0,"0",0,1,0,0,0,2687,1
+"Kansas","Cities","Leavenworth",1,0,0,0,0,"0",0,1,0,0,0,35965,1
+"Michigan","Cities","Lincoln Township",1,0,0,0,0,"0",0,0,0,1,0,14618,1
+"California","Cities","Oceanside",5,1,1,1,0,"0",0,2,4,2,0,172525,8
+"Michigan","Cities","Burton",2,0,0,0,0,"0",0,0,1,0,1,29263,2
+"Massachusetts","Cities","Newburyport",0,0,1,0,0,"0",0,0,0,1,0,17773,1
+"North_Dakota","Cities","Valley City",1,0,0,0,0,"0",0,1,0,0,0,6580,1
+"California","Cities","Manteca",1,1,1,0,0,"0",0,1,1,0,1,72261,3
+"California","Cities","Vernon",1,0,0,0,0,"0",0,0,1,0,0,115,1
+"North_Carolina","Cities","Huntersville",1,0,0,0,0,"0",0,0,0,1,0,50162,1
+"Minnesota","Universities and Colleges","University of Minnesota, Morris",1,0,0,0,0,"0",0,0,0,1,0,1896,1
+"Michigan","Cities","Grand Blanc Township",2,0,0,0,0,"0",0,1,0,0,1,36793,2
+"Connecticut","Cities","East Hartford",0,0,1,0,0,"0",0,0,1,0,0,51275,1
+"New_Jersey","Cities","Runnemede",0,1,0,0,0,"0",0,0,0,0,1,8459,1
+"California","Cities","Taft",0,0,1,0,0,"0",0,1,0,0,0,8839,1
+"Maine","Cities","Mexico",1,0,0,0,0,"0",0,1,0,0,0,2633,1
+"Tennessee","Cities","Monterey",0,0,0,1,0,"0",0,0,1,0,0,2829,1
+"Washington","Universities and Colleges","University of Washington",3,2,0,0,0,"0",0,0,2,0,3,43485,5
+"Tennessee","Cities","Covington",1,0,0,12,4,"0",0,3,1,5,8,9076,17
+"Michigan","Cities","Franklin",2,0,0,0,0,"0",0,0,1,1,0,3194,2
+"Florida","Cities","Jacksonville",5,0,0,0,0,"0",0,3,1,1,0,845745,5
+"North_Carolina","Cities","Hickory",0,0,1,0,0,"0",0,0,1,0,0,40109,1
+"Massachusetts","Cities","Plainville",1,0,0,0,0,"0",0,1,0,0,0,8512,1
+"Texas","Cities","Grapevine",1,0,0,0,0,"0",0,0,0,1,0,49075,1
+"Texas","Cities","San Antonio",3,0,7,1,0,"0",0,3,3,3,2,1399725,11
+"Colorado","Cities","Commerce City",0,1,0,0,0,"0",0,0,0,1,0,49200,1
+"New_York","Universities and Colleges","State University of New York College: Cortland",2,1,0,0,0,"0",0,1,1,0,1,7098,3
+"Michigan","Cities","Dearborn",7,2,2,3,0,"0",0,7,4,2,1,96012,14
+"New_Jersey","Cities","Closter",0,0,1,0,0,"0",0,1,0,0,0,8548,1
+"Minnesota","Cities","Rochester",2,0,0,2,0,"0",0,0,2,2,0,109675,4
+"Washington","Cities","Sedro Woolley",1,0,0,0,0,"0",0,0,0,1,0,10652,1
+"Illinois","Cities","Champaign",1,0,0,0,0,"0",0,0,1,0,0,82966,1
+"Michigan","Cities","Portage",1,0,0,0,0,"0",0,1,0,0,0,47387,1
+"Minnesota","Cities","Eagan",0,2,0,0,0,"0",0,0,1,1,0,65052,2
+"New_Jersey","Cities","Newark",2,0,1,0,0,"0",0,0,2,0,1,278246,3
+"Colorado","Cities","Colorado Springs",3,1,2,1,0,"0",0,2,4,1,0,436108,7
+"New_Jersey","Cities","Washington",3,1,0,0,0,"0",0,1,0,2,1,6408,4
+"Kentucky","Cities","Bowling Green",4,0,2,2,0,"0",0,1,2,4,1,61130,8
+"Michigan","Universities and Colleges","Eastern Michigan University",1,0,0,0,0,"0",0,0,0,0,1,23518,1
+"New_York","Cities","Poughkeepsie",0,0,0,2,1,"0",1,2,1,0,1,30778,4
+"Tennessee","Cities","Millington",2,0,0,4,0,"0",0,0,2,0,4,10500,6
+"South_Carolina","Cities","Clover",0,0,1,0,0,"0",0,0,0,1,0,5342,1
+"North_Carolina","Cities","Greensboro",3,0,0,0,0,"0",0,0,1,0,2,279343,3
+"Massachusetts","Cities","South Hadley",1,0,1,0,0,"0",0,0,0,1,1,17794,2
+"Ohio","Cities","Cleveland",1,0,5,1,0,"0",0,1,0,4,2,389181,7
+"Iowa","Cities","Waterloo",1,0,0,0,0,"0",0,0,0,0,1,68255,1
+"Tennessee","Cities","Mount Carmel",0,0,0,0,1,"0",0,0,1,0,0,5422,1
+"New_Jersey","Cities","Little Falls Township",0,0,1,0,0,"0",0,0,1,0,0,14504,1
+"Nebraska","Cities","Omaha",4,2,2,1,0,"0",0,2,3,3,1,425076,9
+"Massachusetts","Cities","Kingston",0,1,0,0,0,"0",0,0,0,1,0,12791,1
+"New_York","Cities","Ithaca",0,0,1,0,0,"0",0,0,1,0,NA,30433,1
+"Ohio","Cities","Dayton",5,0,2,1,0,"0",0,2,3,1,2,141167,8
+"New_York","Cities","Hyde Park Town",1,0,0,0,0,"0",0,0,0,1,0,21397,1
+"California","Cities","Gilroy",0,0,2,0,0,"0",0,0,1,1,0,51240,2
+"Massachusetts","Cities","Taunton",2,0,0,0,0,"0",0,1,0,1,0,56264,2
+"Kentucky","Cities","Ravenna",1,0,0,0,0,"0",0,0,1,0,0,595,1
+"Washington","Cities","Normandy Park",2,0,0,0,0,"0",0,1,0,1,0,6556,2
+"Rhode_Island","Cities","Central Falls",1,0,0,0,0,"0",0,0,1,0,0,19404,1
+"Florida","Cities","Sunrise",1,0,0,0,0,"0",0,1,0,0,0,90274,1
+"Tennessee","Cities","McMinnville",0,0,0,1,0,"0",0,0,0,0,1,13595,1
+"New_Jersey","Cities","Verona",0,1,0,0,0,"0",0,0,1,0,0,13429,1
+"California","Cities","Jurupa Valley",0,1,0,0,0,"0",0,0,0,1,0,98090,1
+"Illinois","Cities","Quincy",1,0,0,0,0,"0",0,0,0,0,1,40841,1
+"Utah","Cities","Pleasant Grove",2,0,0,0,0,"0",0,0,0,1,1,34796,2
+"Minnesota","Cities","Eden Prairie",1,0,0,0,0,"0",0,0,0,0,1,62714,1
+"California","Cities","Rancho Palos Verdes",0,1,0,0,0,"0",0,0,0,0,1,42542,1
+"Washington","Cities","Spokane",1,0,1,0,0,"0",0,1,NA,0,1,209524,2
+"Connecticut","Cities","New Haven",5,0,4,1,0,"0",0,3,2,4,1,131071,10
+"Florida","Cities","Orlando",1,0,1,0,0,"0",0,2,0,0,0,253238,2
+"Maine","Cities","Searsport",0,0,1,0,0,"0",0,1,0,0,0,2618,1
+"Massachusetts","Cities","Braintree",3,0,0,0,0,"0",0,0,2,1,0,36496,3
+"California","Cities","Montclair",2,0,0,0,0,"0",0,1,0,1,0,37785,2
+"Ohio","Cities","Mentor-on-the-Lake",1,0,0,1,0,"0",0,0,0,2,0,7434,2
+"California","Cities","Torrance",1,0,0,1,0,"0",0,0,0,2,0,147534,2
+"Michigan","Cities","Birmingham",1,1,0,0,0,"0",0,1,0,1,0,20544,2
+"North_Carolina","Cities","Wilmington",3,0,1,0,0,"0",0,3,0,0,1,110985,4
+"Ohio","Cities","Norwood",1,0,0,2,0,"0",0,0,1,1,1,19052,3
+"Massachusetts","Universities and Colleges","Emerson College",1,0,0,0,0,"0",0,0,0,0,1,4531,1
+"Washington","Cities","Yakima",1,0,1,0,0,"0",0,1,0,0,1,93589,2
+"California","Cities","Ontario",1,0,0,0,0,"0",0,0,1,0,0,168144,1
+"Ohio","Cities","Warren Township",1,0,0,0,0,"0",0,0,0,0,1,5450,1
+"Colorado","Cities","Greenwood Village",1,0,0,0,0,"0",0,0,1,0,0,14614,1
+"Michigan","Cities","Utica",2,0,0,0,0,"0",0,0,1,0,1,4765,2
+"Minnesota","Cities","Moorhead",1,0,1,0,0,"0",0,0,0,1,1,39322,2
+"California","Cities","Fairfield",2,0,0,1,0,"0",0,1,0,0,2,108425,3
+"Kentucky","Cities","Oak Grove",1,0,0,0,0,"0",0,0,0,1,0,7638,1
+"Washington","Cities","Sunnyside",1,0,0,1,0,"0",0,1,0,0,1,16099,2
+"Connecticut","Cities","Stratford",1,1,0,1,0,"0",0,0,1,1,1,52285,3
+"New_Jersey","Cities","Cranford Township",0,1,0,0,0,"0",0,1,0,0,0,23165,1
+"Tennessee","Cities","Kingsport",2,0,0,0,0,"0",0,0,0,1,1,51496,2
+"New_Jersey","Cities","East Hanover Township",0,1,0,0,0,"0",0,0,0,0,1,11350,1
+"Oregon","Cities","Toledo",2,0,1,0,1,"0",0,1,2,1,0,3461,4
+"Colorado","Cities","Englewood",1,0,0,0,1,"0",0,0,0,0,2,31454,2
+"New_York","Universities and Colleges","State University of New York Agricultural and Technical College: Morrisville",0,0,0,0,0,"1",0,0,1,0,0,3095,1
+"Washington","Cities","Pullman",2,0,0,0,0,"0",0,2,0,0,0,31895,2
+"California","Cities","Oakland",4,1,4,2,0,"0",0,2,4,3,2,403887,11
+"New_Jersey","Cities","Neptune Township",10,0,3,1,0,"0",0,0,8,2,4,27856,14
+"New_Jersey","Cities","Manalapan Township",1,0,0,2,0,"0",0,2,0,1,0,39313,3
+"Michigan","Cities","Kentwood",2,0,0,0,0,"0",0,0,0,1,1,50016,2
+"Alabama","Cities","Tuscaloosa",1,0,0,0,0,"0",0,0,0,1,0,94126,1
+"New_Jersey","Cities","Howell Township",5,6,4,3,0,"0",0,2,7,5,4,51100,18
+"Tennessee","Cities","Humboldt",1,0,0,0,0,"0",0,0,0,1,0,8458,1
+"California","Cities","Visalia",1,0,1,0,0,"0",0,1,1,0,0,127824,2
+"New_Jersey","Cities","Glen Ridge",0,1,0,0,0,"0",0,0,1,0,0,7626,1
+"Arizona","Cities","Goodyear",0,0,2,0,0,"0",0,1,NA,1,0,71048,2
+"California","Cities","Malibu",1,0,0,0,0,"0",0,0,0,1,0,12891,1
+"Massachusetts","Cities","Billerica",0,1,0,0,0,"0",0,0,0,0,1,41926,1
+"Oklahoma","Cities","Choctaw",1,0,0,0,0,"0",0,1,0,0,0,11768,1
+"New_Jersey","Cities","Pemberton Township",1,0,0,0,0,"0",0,0,0,0,1,27949,1
+"Ohio","Cities","Wapakoneta",1,0,0,0,0,"0",0,0,0,1,0,9812,1
+"Massachusetts","Cities","Brookline",0,1,0,0,0,"0",0,1,0,0,0,59382,1
+"Maryland","Cities","Baltimore",0,1,0,1,0,"0",0,1,0,0,1,622671,2
+"Utah","Universities and Colleges","Utah State University, Logan",0,0,1,0,0,"0",0,0,0,0,1,28786,1
+"Michigan","Cities","Jonesville",1,0,0,0,0,"0",0,0,0,0,1,2231,1
+"Illinois","Cities","Urbana",2,0,0,0,0,"0",0,0,0,1,1,41598,2
+"New_Jersey","Cities","Morris Township",0,1,0,0,0,"0",0,0,0,0,1,22640,1
